@@ -1,0 +1,1545 @@
+589|Orson Scott Card|1951/08/24|375802|Ender's Game (The Ender Quintet, #1)|1994|4.28|584721|1994|
+589|Orson Scott Card|1951/08/24|7967|Speaker for the Dead (The Ender Quintet, #2)|None|3.99|115351|None|
+589|Orson Scott Card|1951/08/24|9532|Ender's Shadow (Ender's Shadow, #1)|2002|4.27|80296|2002|
+589|Orson Scott Card|1951/08/24|8648|Xenocide (The Ender Quintet, #3)|None|3.72|74236|None|
+589|Orson Scott Card|1951/08/24|31360|Children of the Mind (The Ender Quintet, #4)|None|3.69|53017|None|
+589|Orson Scott Card|1951/08/24|9534|Shadow of the Hegemon (Ender's Shadow, #2)|None|3.89|42046|None|
+589|Orson Scott Card|1951/08/24|234724|Shadow Puppets (Ender's Shadow, #3)|None|3.85|31223|None|
+589|Orson Scott Card|1951/08/24|8647|Shadow of the Giant (Ender's Shadow, #4)|2005|3.95|28052|2005|
+589|Orson Scott Card|1951/08/24|3220405|Ender in Exile (The Ender Quintet, #1.6)|2008|3.86|23422|2008|
+589|Orson Scott Card|1951/08/24|40290|Seventh Son (Tales of Alvin Maker, #1)|1988|3.86|20747|1988|
+589|Orson Scott Card|1951/08/24|7973|Enchantment|2005|3.88|18198|2005|
+589|Orson Scott Card|1951/08/24|7968|Red Prophet (Tales of Alvin Maker, #2)|1992|3.76|13290|1992|
+589|Orson Scott Card|1951/08/24|31357|Prentice Alvin (Tales of Alvin Maker, #3)|None|3.75|11957|None|
+589|Orson Scott Card|1951/08/24|8100267|Pathfinder (Pathfinder, #1)|2010|3.97|11252|2010|
+589|Orson Scott Card|1951/08/24|9265891|The Lost Gate|2011|3.79|11555|2011|
+589|Orson Scott Card|1951/08/24|40271|Alvin Journeyman (Tales of Alvin Maker, #4)|2005|3.69|10439|2005|
+589|Orson Scott Card|1951/08/24|40289|The Abyss|1989|3.99|9428|1989|
+589|Orson Scott Card|1951/08/24|40293|Pastwatch: The Redemption of Christopher Columbus|None|3.95|9462|None|
+589|Orson Scott Card|1951/08/24|92956|The Memory of Earth (Homecoming, #1)|None|3.53|10176|None|
+589|Orson Scott Card|1951/08/24|7958|Sarah (Women of Genesis, #1)|2012|3.87|8195|2012|
+589|Orson Scott Card|1951/08/24|7962|Heartfire (Tales of Alvin Maker, #5)|2001|3.65|8584|2001|
+589|Orson Scott Card|1951/08/24|13151129|Earth Unaware (The First Formic War, #1)|2012|3.87|7978|2012|
+589|Orson Scott Card|1951/08/24|552987|A War of Gifts (The Ender Quintet, #1.5)|None|3.64|8246|None|
+589|Orson Scott Card|1951/08/24|7957|First Meetings in Ender's Universe (The Ender Quintet, #0.5)|2004|3.79|7107|2004|
+589|Orson Scott Card|1951/08/24|7971|The Call of Earth (Homecoming, #2)|None|3.52|7490|None|
+589|Orson Scott Card|1951/08/24|92923|The Crystal City (Tales of Alvin Maker, #6)|None|3.56|7231|None|
+589|Orson Scott Card|1951/08/24|7966|Rebekah (Women of Genesis, #2)|None|3.83|6332|None|
+589|Orson Scott Card|1951/08/24|24441|The Ships of Earth (Homecoming, #3)|None|3.47|6882|None|
+589|Orson Scott Card|1951/08/24|40304|The Worthing Saga (Worthing, #1-3)|1992|3.81|6220|1992|
+589|Orson Scott Card|1951/08/24|12040447|Shadows in Flight (Ender's Shadow, #5)|2012|3.65|6348|2012|
+5735|Anthony Burgess|1917/02/25|227463|A Clockwork Orange|1995|3.95|300783|1995|
+5735|Anthony Burgess|1917/02/25|8809|The Wanting Seed|None|3.81|2746|None|
+5735|Anthony Burgess|1917/02/25|8822|Earthly Powers|2004|4.16|1364|2004|
+5735|Anthony Burgess|1917/02/25|59796|A Dead Man in Deptford|2003|3.83|675|2003|
+5735|Anthony Burgess|1917/02/25|8820|The Doctor is Sick|1997|3.68|635|1997|
+5735|Anthony Burgess|1917/02/25|16241209|Nothing Like the Sun: A Story of Shakespeare's Love-Life|2013|3.84|598|2013|
+5735|Anthony Burgess|1917/02/25|8818|One Hand Clapping|1999|3.80|562|1999|
+5735|Anthony Burgess|1917/02/25|16241207|Honey for the Bears|2013|3.56|569|2013|
+5735|Anthony Burgess|1917/02/25|96574|The End of the World News|1983|3.79|453|1983|
+5735|Anthony Burgess|1917/02/25|587926|1985|None|3.49|445|None|
+5735|Anthony Burgess|1917/02/25|8823|The Long Day Wanes: A Malayan Trilogy|1993|4.06|375|1993|
+5735|Anthony Burgess|1917/02/25|16241208|Tremor of Intent|2013|3.69|407|2013|
+5735|Anthony Burgess|1917/02/25|8821|Complete Enderby: Inside Mr. Enderby, Enderby Outside, the Clockwork Testament, and Enderby's...|1996|4.15|280|1996|
+5735|Anthony Burgess|1917/02/25|621463|The Kingdom of the Wicked|1985|3.90|293|1985|
+5735|Anthony Burgess|1917/02/25|446103|Re Joyce|2000|4.02|264|2000|
+5735|Anthony Burgess|1917/02/25|336189|M/F|2004|3.59|263|2004|
+5735|Anthony Burgess|1917/02/25|336225|Any Old Iron|1990|3.56|264|1990|
+5735|Anthony Burgess|1917/02/25|336190|Inside Mr. Enderby|None|3.78|232|None|
+5735|Anthony Burgess|1917/02/25|8819|The Pianoplayers: Anthony Burgess|None|3.64|222|None|
+5735|Anthony Burgess|1917/02/25|230101|Enderby|None|3.92|184|None|
+5735|Anthony Burgess|1917/02/25|59797|Little Wilson and Big God: The First Part of the Confession|None|4.06|176|None|
+5735|Anthony Burgess|1917/02/25|230049|Shakespeare|None|3.84|164|None|
+5735|Anthony Burgess|1917/02/25|12721|The Clockwork Testament, Or, Enderby's End|None|3.71|149|None|
+5735|Anthony Burgess|1917/02/25|112768|A Mouthful of Air: Languages and Language, Especially English|None|4.00|132|None|
+5735|Anthony Burgess|1917/02/25|230102|Ninety-Nine Novels: The Best in English Since 1939|1984|3.80|128|1984|
+5735|Anthony Burgess|1917/02/25|230076|Napoleon Symphony|1980|3.68|130|1980|
+5735|Anthony Burgess|1917/02/25|230094|You've Had Your Time: Second Part of the Confessions|1991|4.14|109|1991|
+5735|Anthony Burgess|1917/02/25|2888485|Enderby Outside|1968|3.92|112|1968|
+5735|Anthony Burgess|1917/02/25|230103|The Eve of St Venus|2005|3.38|122|2005|
+5735|Anthony Burgess|1917/02/25|230130|Abba Abba|1989|3.50|117|1989|
+7717|Richard Adams|1920/05/09|76620|Watership Down|1975|4.02|200854|1975|
+7717|Richard Adams|1920/05/09|456920|Tales from Watership Down (Watership Down, #2)|1998|3.69|4066|1998|
+7717|Richard Adams|1920/05/09|12442|The Plague Dogs|None|3.80|3725|None|
+7717|Richard Adams|1920/05/09|92408|Shardik (Beklan Empire, #1)|1974|3.41|2201|1974|
+7717|Richard Adams|1920/05/09|12444|Maia (Beklan Empire, #2)|1984|3.97|1381|1984|
+7717|Richard Adams|1920/05/09|1354214|The Girl in a Swing|None|3.45|1108|None|
+7717|Richard Adams|1920/05/09|12441|Traveller|1989|3.90|560|1989|
+7717|Richard Adams|1920/05/09|764486|The Iron Wolf and Other Stories|None|3.65|127|None|
+7717|Richard Adams|1920/05/09|1481380|The Tyger Voyage|None|4.17|60|None|
+7717|Richard Adams|1920/05/09|1367615|The Ship's Cat|1977|4.37|41|1977|
+7717|Richard Adams|1920/05/09|12151|The Watership Down Film Picture Book: With Linking Text|1978|4.41|34|1978|
+7717|Richard Adams|1920/05/09|1722090|The Day Gone By|1991|3.61|18|1991|
+7717|Richard Adams|1920/05/09|92732|Richard Adams's Favourite Animal Stories|None|3.82|11|None|
+7717|Richard Adams|1920/05/09|1111507|Nature Through The Seasons|None|3.90|10|None|
+7717|Richard Adams|1920/05/09|92733|The Outlandish Knight|1999|2.83|12|1999|
+7717|Richard Adams|1920/05/09|3306602|The Legend Of Te Tuna|1986|3.09|11|1986|
+7717|Richard Adams|1920/05/09|1111505|Nature Day and Night|None|3.67|9|None|
+7717|Richard Adams|1920/05/09|4495089|A Nature Diary|1985|3.75|8|1985|
+7717|Richard Adams|1920/05/09|6280643|Daniel|2006|3.25|8|2006|
+7717|Richard Adams|1920/05/09|1824955|Voyage Through The Antarctic|1983|3.50|6|1983|
+7717|Richard Adams|1920/05/09|3226897|The Bureaucats|1985|4.00|4|1985|
+7717|Richard Adams|1920/05/09|11283214|The Delaware Indians: A Brief History|None|4.67|3|None|
+7717|Richard Adams|1920/05/09|2479499|Maia, Part 2 of 3|None|5.00|2|None|
+7717|Richard Adams|1920/05/09|2235897|Critical Studies Heart Of Darkness|1991|3.33|3|1991|
+7717|Richard Adams|1920/05/09|2387476|Maia Part 1 of 3|None|4.50|2|None|
+7717|Richard Adams|1920/05/09|1830567|Writing English|1980|5.00|1|1980|
+7717|Richard Adams|1920/05/09|3195371|The Adventures of Gavin Maxwell|1980|5.00|1|1980|
+7717|Richard Adams|1920/05/09|4493742|Occasional Poets|1986|5.00|1|1986|
+7717|Richard Adams|1920/05/09|22068124|Watership Down A Novel|None|5.00|1|None|
+7717|Richard Adams|1920/05/09|15195016|Dear God...Dear George|None|3.00|1|None|
+26|Anne McCaffrey|1926/04/01|61975|Dragonflight (Pern, #1)|2005|4.07|62035|2005|
+26|Anne McCaffrey|1926/04/01|28541|Dragonsong (Harper Hall, #1)|2006|4.19|26623|2006|
+26|Anne McCaffrey|1926/04/01|127586|The White Dragon (Pern, #3)|1986|4.14|25441|1986|
+26|Anne McCaffrey|1926/04/01|28547|Dragonsinger (Harper Hall, #2)|None|4.22|24865|None|
+26|Anne McCaffrey|1926/04/01|127584|Dragonquest (Pern, #2)|1986|4.06|24623|1986|
+26|Anne McCaffrey|1926/04/01|28553|Dragondrums (Harper Hall, #3)|2003|3.99|20410|2003|
+26|Anne McCaffrey|1926/04/01|465904|Dragonsdawn (Pern, #9)|1988|4.08|18964|1988|
+26|Anne McCaffrey|1926/04/01|61958|Moreta: Dragonlady of Pern (Pern, #7)|1997|3.92|17314|1997|
+26|Anne McCaffrey|1926/04/01|24870|The Masterharper of Pern (Pern, #15)|1999|4.17|15439|1999|
+26|Anne McCaffrey|1926/04/01|61926|All the Weyrs of Pern (Pern, #11)|1997|4.09|15165|1997|
+26|Anne McCaffrey|1926/04/01|61942|The Dragonriders of Pern (Dragonriders of Pern, #1-3)|1988|4.16|14133|1988|
+26|Anne McCaffrey|1926/04/01|203288|The Ship Who Sang (Brainship, #1)|1985|3.95|13887|1985|
+26|Anne McCaffrey|1926/04/01|653711|Crystal Singer (Crystal Singer, #1)|1985|4.01|11381|1985|
+26|Anne McCaffrey|1926/04/01|20082|The Renegades of Pern (Pern, #10)|1997|3.78|12029|1997|
+26|Anne McCaffrey|1926/04/01|127567|The Dolphins of Pern (Pern, #13)|1997|3.88|10688|1997|
+26|Anne McCaffrey|1926/04/01|61938|The Rowan (The Tower and the Hive, #1)|1992|3.99|10384|1992|
+26|Anne McCaffrey|1926/04/01|61974|Nerilka's Story (Pern, #8)|1997|3.73|10974|1997|
+26|Anne McCaffrey|1926/04/01|96463|The Chronicles of Pern: First Fall (Pern, #12)|1994|3.96|9742|1994|
+26|Anne McCaffrey|1926/04/01|238961|Killashandra (Crystal Singer #2)|1986|3.96|8732|1986|
+26|Anne McCaffrey|1926/04/01|127566|The Skies of Pern (Pern, #16)|2002|3.98|8656|2002|
+26|Anne McCaffrey|1926/04/01|61959|Damia (The Tower and the Hive, #2)|1993|3.93|7775|1993|
+26|Anne McCaffrey|1926/04/01|177927|Dragonseye (Pern, #14)|2002|3.93|7668|2002|
+26|Anne McCaffrey|1926/04/01|176850|The Ship Who Searched (Brainship, #3)|1994|4.03|7223|1994|
+26|Anne McCaffrey|1926/04/01|61950|The Girl Who Heard Dragons|1996|3.81|7467|1996|
+26|Anne McCaffrey|1926/04/01|61970|Crystal Line (Crystal Singer #3)|1994|3.92|6715|1994|
+26|Anne McCaffrey|1926/04/01|61940|Damia's Children (The Tower and the Hive, #3)|1994|3.82|6822|1994|
+26|Anne McCaffrey|1926/04/01|614558|Dragon Harper (Pern, #20)|None|3.99|6312|None|
+26|Anne McCaffrey|1926/04/01|61928|Freedom's Landing (Catteni, #1)|1996|3.87|6157|1996|
+26|Anne McCaffrey|1926/04/01|177928|Acorna: The Unicorn Girl (Acorna #1)|None|3.58|6392|None|
+26|Anne McCaffrey|1926/04/01|24866|Dragon's Kin (Pern, #17)|2004|3.83|5828|2004|
+6025722|Walter M. Miller Jr.|1923/01/23|164154|A Canticle for Leibowitz (St. Leibowitz, #1)|2006|3.96|43874|2006|
+6025722|Walter M. Miller Jr.|1923/01/23|15766958|Invasioni dallo spazio|1995|3.85|9996|1995|
+6025722|Walter M. Miller Jr.|1923/01/23|222320|The Hugo Winners 1955-1961|1977|4.14|447|1977|
+6025722|Walter M. Miller Jr.|1923/01/23|258936|Saint Leibowitz and the Wild Horse Woman|None|3.11|446|None|
+6025722|Walter M. Miller Jr.|1923/01/23|9012198|The Penguin Science Fiction Omnibus|1973|3.96|191|1973|
+6025722|Walter M. Miller Jr.|1923/01/23|1372926|Dark Benediction|2007|3.77|197|2007|
+6025722|Walter M. Miller Jr.|1923/01/23|261494|The Oxford Book of Science Fiction Stories|2003|4.17|155|2003|
+6025722|Walter M. Miller Jr.|1923/01/23|520723|The World Treasury of Science Fiction|1989|4.06|154|1989|
+6025722|Walter M. Miller Jr.|1923/01/23|627938|Beyond Armageddon|2006|3.50|141|2006|
+6025722|Walter M. Miller Jr.|1923/01/23|1613381|Conditionally Human And Other Stories|1982|3.90|39|1982|
+6025722|Walter M. Miller Jr.|1923/01/23|2206407|The View from the Stars|None|3.68|34|None|
+6025722|Walter M. Miller Jr.|1923/01/23|6694888|Death of a Spaceman|None|3.84|31|None|
+6025722|Walter M. Miller Jr.|1923/01/23|1613382|The Darfsteller And Other Stories|1982|3.69|29|1982|
+6025722|Walter M. Miller Jr.|1923/01/23|482870|The Science Fiction Stories Of Walter M. Miller, Jr|1978|4.13|15|1978|
+6025722|Walter M. Miller Jr.|1923/01/23|8706182|Classic Science Fiction by Walter M. Miller, Jr.|None|3.75|16|None|
+6025722|Walter M. Miller Jr.|1923/01/23|8708759|The Hoofer|None|3.38|13|None|
+6025722|Walter M. Miller Jr.|1923/01/23|12560080|Check and Checkmate: A Science Fiction Satire|None|3.57|7|None|
+6025722|Walter M. Miller Jr.|1923/01/23|12963621|Um Cântico para Leibowitz, 1|1971|3.43|7|1971|
+6025722|Walter M. Miller Jr.|1923/01/23|12963627|Um Cântico para Leibowitz, 2|1971|3.33|6|1971|
+6025722|Walter M. Miller Jr.|1923/01/23|12963630|Um Cântico Para Leibowitz, 3|1971|3.33|6|1971|
+6025722|Walter M. Miller Jr.|1923/01/23|14402873|Way of a Rebel|None|3.80|5|None|
+6025722|Walter M. Miller Jr.|1923/01/23|9466904|Conditionally Human|1962|3.75|4|1962|
+6025722|Walter M. Miller Jr.|1923/01/23|18105723|Un cantico per Leibowitz - Benedizione oscura - Umani a condizione - Il mattatore|1988|3.67|3|1988|
+6025722|Walter M. Miller Jr.|1923/01/23|13555496|Command Performance|2011|3.67|3|2011|
+6025722|Walter M. Miller Jr.|1923/01/23|8458925|The Ties That Bind|None|2.75|4|None|
+6025722|Walter M. Miller Jr.|1923/01/23|18903970|Conditionally Human|None|3.33|3|None|
+6025722|Walter M. Miller Jr.|1923/01/23|10679106|Beyond Armageddon: Survivors Of The Megawar|None|4.00|2|None|
+6025722|Walter M. Miller Jr.|1923/01/23|7774875|Two Worlds of Walter M. Miller|2010|5.00|1|2010|
+6025722|Walter M. Miller Jr.|1923/01/23|18073999|Dziś w nocy zbuntują się gwiazdy|1987|0.0|0|1987|
+6025722|Walter M. Miller Jr.|1923/01/23|12822201|Coffret leibowitz 3vl|1998|0.0|0|1998|
+880695|H.G. Wells|1866/09/21|2493|The Time Machine|2002|3.81|168319|2002|
+880695|H.G. Wells|1866/09/21|8909|The War of the Worlds|2002|3.74|105070|2002|
+880695|H.G. Wells|1866/09/21|17184|The Invisible Man|2002|3.57|49704|2002|
+880695|H.G. Wells|1866/09/21|29981|The Island of Dr. Moreau|None|3.68|43284|None|
+880695|H.G. Wells|1866/09/21|17136|The Time Machine/The Invisible Man|2005|4.05|32006|2005|
+880695|H.G. Wells|1866/09/21|536478|The First Men in the Moon|2005|3.66|5778|2005|
+880695|H.G. Wells|1866/09/21|11794729|The Time Machine, The Wonderful Visit and Other Stories (The Works of H.G. Wells, Vol. 1)|None|3.93|2335|None|
+880695|H.G. Wells|1866/09/21|497179|The Time Machine/The War of the Worlds|1986|4.00|2116|1986|
+880695|H.G. Wells|1866/09/21|953787|The Food Of The Gods|None|3.43|1705|None|
+880695|H.G. Wells|1866/09/21|6777756|H. G. Wells: Seven Novels|None|4.05|1416|None|
+880695|H.G. Wells|1866/09/21|80939|When the Sleeper Wakes|None|3.45|1553|None|
+880695|H.G. Wells|1866/09/21|2504|The Complete Short Stories|2001|4.11|736|2001|
+880695|H.G. Wells|1866/09/21|718477|A Short History of the World|2007|3.83|668|2007|
+880695|H.G. Wells|1866/09/21|906484|The Country of the Blind and Other Science-Fiction Stories|2011|3.93|549|2011|
+880695|H.G. Wells|1866/09/21|1153149|The Outline of History, Vols. I and II|None|3.97|544|None|
+880695|H.G. Wells|1866/09/21|1053127|In the Days of the Comet|2002|3.30|650|2002|
+880695|H.G. Wells|1866/09/21|29966|The Shape of Things to Come|2006|3.64|546|2006|
+880695|H.G. Wells|1866/09/21|483583|The History of Mr. Polly|2005|3.58|542|2005|
+880695|H.G. Wells|1866/09/21|8518400|The Country of the Blind|None|3.94|486|None|
+880695|H.G. Wells|1866/09/21|275779|The Door in the Wall|None|3.87|487|None|
+880695|H.G. Wells|1866/09/21|2508|Tono-Bungay|2005|3.44|525|2005|
+880695|H.G. Wells|1866/09/21|283860|Ann Veronica|2005|3.59|411|2005|
+880695|H.G. Wells|1866/09/21|80950|Kipps|2005|3.37|379|2005|
+880695|H.G. Wells|1866/09/21|29983|The Works of H.G. Wells|None|4.11|284|None|
+880695|H.G. Wells|1866/09/21|29964|A Modern Utopia|2006|3.49|329|2006|
+880695|H.G. Wells|1866/09/21|699808|The War in the Air|2007|3.56|320|2007|
+880695|H.G. Wells|1866/09/21|718452|The World Set Free|2007|3.42|332|2007|
+880695|H.G. Wells|1866/09/21|6445554|الغرفة الحمراء|1996|3.42|250|1996|
+880695|H.G. Wells|1866/09/21|807695|Men Like Gods|None|3.62|235|None|
+880695|H.G. Wells|1866/09/21|3497718|Tales of Space and Time|None|3.87|206|None|
+696805|Jules Verne|1828/02/08|54479|Around the World in Eighty Days|2004|3.86|84799|2004|
+696805|Jules Verne|1828/02/08|33507|Twenty Thousand Leagues Under the Sea (Extraordinary Voyages, #6)|2002|3.78|71613|2002|
+696805|Jules Verne|1828/02/08|32829|Journey to the Center of the Earth (Extraordinary Voyages, #3)|2006|3.79|66186|2006|
+696805|Jules Verne|1828/02/08|32831|The Mysterious Island|2004|4.02|19255|2004|
+696805|Jules Verne|1828/02/08|32827|From the Earth to the Moon (Extraordinary Voyages, #4)|None|3.75|10138|None|
+696805|Jules Verne|1828/02/08|1219103|Five Weeks in a Balloon (Extraordinary Voyages, #1)|2006|3.67|7698|2006|
+696805|Jules Verne|1828/02/08|267071|In Search of the Castaways; or the Children of Captain Grant|2006|4.03|4479|2006|
+696805|Jules Verne|1828/02/08|1872416|Michael Strogoff|2007|3.77|2749|2007|
+696805|Jules Verne|1828/02/08|237699|Dick Sands the Boy Captain (The Extraordinary Voyages #17)|1878|3.82|2021|1878|
+696805|Jules Verne|1828/02/08|32849|Adrift in the Pacific: Two Years Holiday|None|3.94|1456|None|
+696805|Jules Verne|1828/02/08|78784|Round the Moon|None|3.56|1552|None|
+696805|Jules Verne|1828/02/08|1540877|The Castle of the Carpathians|2001|3.60|1239|2001|
+696805|Jules Verne|1828/02/08|32832|The Lighthouse at the End of the World|None|3.64|1166|None|
+696805|Jules Verne|1828/02/08|560027|Works of Jules Verne : Twenty Thousand Leagues Under the Sea; A Journey to the Center of the Earth; From the Earth to the Moon; Round the Moon; Around the World in Eighty Days|None|4.17|922|None|
+696805|Jules Verne|1828/02/08|32838|The Master of the World|2006|3.47|1029|2006|
+696805|Jules Verne|1828/02/08|337109|Paris in the Twentieth Century|1997|3.37|918|1997|
+696805|Jules Verne|1828/02/08|32824|The Underground City|None|3.64|804|None|
+696805|Jules Verne|1828/02/08|158247|The Adventures of Captain Hatteras (Extraordinary Voyages, #2)|2005|3.85|734|2005|
+696805|Jules Verne|1828/02/08|54480|Around the World in Eighty Days & Five Weeks in a Balloon|None|3.72|752|None|
+696805|Jules Verne|1828/02/08|376974|From the Earth to the Moon and 'Round the Moon|None|3.73|739|None|
+696805|Jules Verne|1828/02/08|560031|800 Leagues on the Amazon|2005|3.59|651|2005|
+696805|Jules Verne|1828/02/08|376957|Robur the Conqueror|2006|3.50|640|2006|
+696805|Jules Verne|1828/02/08|78735|In the Year 2889|None|3.20|688|None|
+696805|Jules Verne|1828/02/08|6265685|Captain Nemo: 20,000 Leagues Under the Sea and the Mysterious Island|2009|4.23|500|2009|
+696805|Jules Verne|1828/02/08|78785|A Floating City|None|3.51|532|None|
+696805|Jules Verne|1828/02/08|625993|The Star of the South|None|3.72|478|None|
+696805|Jules Verne|1828/02/08|2107163|The Begum's Fortune|2003|3.68|482|2003|
+696805|Jules Verne|1828/02/08|8588776|Jules Verne: Seven Novels|2011|4.30|409|2011|
+696805|Jules Verne|1828/02/08|376984|The Green Ray|2003|3.27|518|2003|
+696805|Jules Verne|1828/02/08|719181|An Antarctic Mystery|None|3.44|464|None|
+196482|Daniel Keys Moran|None|1249514|Star Wars: Sturm über Tatooine|1999|3.51|3861|1999|
+196482|Daniel Keys Moran|None|403016|The Long Run: A Tale of the Continuing Time  (The Continuing Time, #2)|None|4.59|360|None|
+196482|Daniel Keys Moran|None|1262998|Emerald Eyes  (The Continuing Time, #1)|1988|4.08|346|1988|
+196482|Daniel Keys Moran|None|1262999|The Last Dancer  (The Continuing Time, #3)|1993|4.28|284|1993|
+196482|Daniel Keys Moran|None|403036|The Armageddon Blues|None|4.02|179|None|
+196482|Daniel Keys Moran|None|10902136|The A.I. War: The Big Boost  (The Continuing Time, #4)|2011|4.43|122|2011|
+196482|Daniel Keys Moran|None|562970|War of the Worlds: Global Dispatches|1997|3.61|121|1997|
+196482|Daniel Keys Moran|None|403037|The Ring|1988|3.79|72|1988|
+196482|Daniel Keys Moran|None|403038|Terminal Freedom|None|3.68|56|None|
+196482|Daniel Keys Moran|None|12834480|A Freeway in my Backyard|None|4.58|12|None|
+196482|Daniel Keys Moran|None|18924334|A Princess of Mars - The Annotated Edition - and New Tales of the Red Planet (Mars/Barsoom Series)|None|4.00|1|None|
+196482|Daniel Keys Moran|None|20800516|Echa wojny światów|1997|3.00|1|1997|
+196482|Daniel Keys Moran|None|22302454|Terminal Freedom|None|1.00|1|None|
+58|Frank Herbert|1920/10/08|234225|Dune (Dune Chronicles, #1)|2006|4.11|343010|2006|
+58|Frank Herbert|1920/10/08|106|Dune Messiah (Dune Chronicles, #2)|1987|3.81|55081|1987|
+58|Frank Herbert|1920/10/08|112|Children of Dune (Dune Chronicles, #3)|1987|3.84|49759|1987|
+58|Frank Herbert|1920/10/08|53764|The Great Dune Trilogy|None|4.34|34918|None|
+58|Frank Herbert|1920/10/08|42432|God Emperor of Dune (Dune Chronicles, #4)|2003|3.76|34755|2003|
+58|Frank Herbert|1920/10/08|117|Heretics of Dune (Dune Chronicles, #5)|1987|3.78|28324|1987|
+58|Frank Herbert|1920/10/08|105|Chapterhouse: Dune (Dune Chronicles, #6)|1987|3.84|24968|1987|
+58|Frank Herbert|1920/10/08|2011|The Dosadi Experiment (ConSentiency Universe, #2)|2002|3.76|4392|2002|
+58|Frank Herbert|1920/10/08|93448|The White Plague|1983|3.69|3609|1983|
+58|Frank Herbert|1920/10/08|2013|The Jesus Incident (Destination: Void, #2)|1987|3.66|2899|1987|
+58|Frank Herbert|1920/10/08|110|The Road to Dune|None|3.70|2280|None|
+58|Frank Herbert|1920/10/08|2014|The Lazarus Effect (Destination: Void, #3)|1987|3.67|2144|1987|
+58|Frank Herbert|1920/10/08|2012|Whipping Star|1986|3.60|1839|1986|
+58|Frank Herbert|1920/10/08|761449|Destination: Void (Destination: Void, #1)|1984|3.60|1829|1984|
+58|Frank Herbert|1920/10/08|53729|Hellstrom's Hive|None|3.61|1721|None|
+58|Frank Herbert|1920/10/08|60162|The Godmakers|None|3.55|1228|None|
+58|Frank Herbert|1920/10/08|2010|The Santaroga Barrier|2002|3.62|1123|2002|
+58|Frank Herbert|1920/10/08|53727|The Green Brain|2002|3.30|1028|2002|
+58|Frank Herbert|1920/10/08|2015|The Eyes of Heisenberg|2002|3.42|990|2002|
+58|Frank Herbert|1920/10/08|53770|Dune Messiah & Children Of Dune|2002|4.19|772|2002|
+58|Frank Herbert|1920/10/08|53730|The Ascension Factor (Destination: Void, #4)|1990|3.70|783|1990|
+58|Frank Herbert|1920/10/08|20286|Under Pressure|1979|3.53|724|1979|
+58|Frank Herbert|1920/10/08|53726|Soul Catcher|1987|3.63|658|1987|
+58|Frank Herbert|1920/10/08|20289|Eye|None|3.64|640|None|
+58|Frank Herbert|1920/10/08|93440|Man Of Two Worlds|1987|3.40|490|1987|
+58|Frank Herbert|1920/10/08|20290|The Heaven Makers|1978|3.41|332|1978|
+58|Frank Herbert|1920/10/08|53766|The Second Great Dune Trilogy: God Emperor of Dune/Heretics of Dune/Chapter House Dune|1987|4.36|222|1987|
+58|Frank Herbert|1920/10/08|1961540|The Worlds of Frank Herbert|1977|3.48|210|1977|
+58|Frank Herbert|1920/10/08|93450|Direct Descent|1988|3.14|178|1988|
+58|Frank Herbert|1920/10/08|1393633|Dune - Tome 2 (Dune, #1)|None|4.26|98|None|
+3619|Roger Zelazny|1937/05/13|92121|Nine Princes in Amber (Amber Chronicles, #1)|1972|4.13|23746|1972|
+3619|Roger Zelazny|1937/05/13|5367|The Great Book of Amber (Chronicles of Amber, #1-10)|2010|4.30|14175|2010|
+3619|Roger Zelazny|1937/05/13|13821|Lord of Light|2010|4.10|13662|2010|
+3619|Roger Zelazny|1937/05/13|359581|The Courts of Chaos (Amber Chronicles, #5)|1979|4.19|11958|1979|
+3619|Roger Zelazny|1937/05/13|62012|The Guns of Avalon (Amber Chronicles, #2)|1974|4.17|9805|1974|
+3619|Roger Zelazny|1937/05/13|116982|The Hand of Oberon (Amber Chronicles, #4)|1977|4.19|8502|1977|
+3619|Roger Zelazny|1937/05/13|239917|Sign of the Unicorn (Amber Chronicles, #3)|1976|4.14|8134|1976|
+3619|Roger Zelazny|1937/05/13|536790|Trumps of Doom (Amber Chronicles, #6)|1986|4.05|7854|1986|
+3619|Roger Zelazny|1937/05/13|316876|The Chronicles of Amber (Amber #1-5)|2003|4.34|6373|2003|
+3619|Roger Zelazny|1937/05/13|239924|Blood of Amber (Amber Chronicles, #7)|1987|4.03|6725|1987|
+3619|Roger Zelazny|1937/05/13|61994|Prince of Chaos (Amber Chronicles, #10)|1992|3.97|5225|1992|
+3619|Roger Zelazny|1937/05/13|13827|This Immortal|1989|3.93|5067|1989|
+3619|Roger Zelazny|1937/05/13|62004|Sign of Chaos (Amber Chronicles, #8)|1991|3.95|4821|1991|
+3619|Roger Zelazny|1937/05/13|62016|Knight of Shadows (Amber Chronicles, #9)|1990|3.93|4618|1990|
+3619|Roger Zelazny|1937/05/13|61986|Jack of Shadows|1989|3.99|2924|1989|
+3619|Roger Zelazny|1937/05/13|62005|A Night in the Lonesome October|None|4.24|2595|None|
+3619|Roger Zelazny|1937/05/13|13824|The Doors of His Face, the Lamps of His Mouth|2005|4.07|2349|2005|
+3619|Roger Zelazny|1937/05/13|427252|Creatures of Light and Darkness|None|3.99|2275|None|
+3619|Roger Zelazny|1937/05/13|239919|Damnation Alley|2004|3.53|2470|2004|
+3619|Roger Zelazny|1937/05/13|61998|Doorways in the Sand|1991|3.94|2138|1991|
+3619|Roger Zelazny|1937/05/13|2216760|The Chronicles of Amber: Volume I (Amber #1-2)|1972|4.30|1619|1972|
+3619|Roger Zelazny|1937/05/13|239922|Bring Me the Head of Prince Charming (Millennial Contest, #1)|1991|3.66|1685|1991|
+3619|Roger Zelazny|1937/05/13|239923|My Name is Legion|1981|3.78|1623|1981|
+3619|Roger Zelazny|1937/05/13|939645|Roadmarks|1994|3.85|1437|1994|
+3619|Roger Zelazny|1937/05/13|13822|The Last Defender of Camelot|None|3.97|1292|None|
+3619|Roger Zelazny|1937/05/13|28807|Changeling|2003|3.71|1315|2003|
+3619|Roger Zelazny|1937/05/13|61992|The Dream Master|2001|3.64|1303|2001|
+3619|Roger Zelazny|1937/05/13|536800|Unicorn Variations|None|4.00|1121|None|
+3619|Roger Zelazny|1937/05/13|62017|Dilvish, the Damned|1982|3.73|1128|1982|
+3619|Roger Zelazny|1937/05/13|61985|Madwand|None|3.68|1064|None|
+8732|David Eddings|1931/07/07|44688|Magician's Gambit (The Belgariad, #3)|1983|4.11|54778|1983|
+8732|David Eddings|1931/07/07|44687|Enchanters' End Game (The Belgariad, #5)|1986|4.15|50723|1986|
+8732|David Eddings|1931/07/07|189802|Belgarath the Sorcerer|1997|4.03|40561|1997|
+8732|David Eddings|1931/07/07|44659|Pawn of Prophecy (The Belgariad, #1)|None|4.12|39269|None|
+8732|David Eddings|1931/07/07|645023|Castle of Wizardry (The Belgariad, #4)|1984|4.14|38840|1984|
+8732|David Eddings|1931/07/07|587582|Queen of Sorcery (The Belgariad, #2)|1982|4.11|31998|1982|
+8732|David Eddings|1931/07/07|189811|King of the Murgos (The Malloreon, #2)|1989|4.06|29575|1989|
+8732|David Eddings|1931/07/07|673657|Guardians of the West (The Malloreon, #1)|1988|4.03|24798|1988|
+8732|David Eddings|1931/07/07|371787|Sorceress of Darshiva (The Malloreon, #4)|1990|4.04|22774|1990|
+8732|David Eddings|1931/07/07|110694|Seeress of Kell (The Malloreon, #5)|1992|4.08|22505|1992|
+8732|David Eddings|1931/07/07|286507|Demon Lord of Karanda (The Malloreon, #3)|1989|3.99|20479|1989|
+8732|David Eddings|1931/07/07|291354|The Ruby Knight (The Elenium, #2)|None|3.91|17665|None|
+8732|David Eddings|1931/07/07|616678|The Diamond Throne (The Elenium, #1)|1990|3.87|17769|1990|
+8732|David Eddings|1931/07/07|18884|Polgara the Sorceress|None|4.03|16701|None|
+8732|David Eddings|1931/07/07|291356|The Sapphire Rose (The Elenium, #3)|1992|3.94|16386|1992|
+8732|David Eddings|1931/07/07|651260|Domes of Fire (The Tamuli, #1)|None|3.93|15362|None|
+8732|David Eddings|1931/07/07|429883|The Hidden City (The Tamuli, #3)|None|3.92|12675|None|
+8732|David Eddings|1931/07/07|243298|The Shining Ones (The Tamuli, #2)|None|3.89|12504|None|
+8732|David Eddings|1931/07/07|18878|The Belgariad: Volume One|2002|4.24|9528|2002|
+8732|David Eddings|1931/07/07|110692|The Redemption of Althalus|2001|3.77|9176|2001|
+8732|David Eddings|1931/07/07|44660|The Belgariad Boxed Set|None|4.22|7124|None|
+8732|David Eddings|1931/07/07|18879|The Belgariad, volume 2: Castle of Wizardry, Enchanters' End Game|None|4.34|4684|None|
+8732|David Eddings|1931/07/07|110693|The Elder Gods (The Dreamers, #1)|2004|3.03|5819|2004|
+8732|David Eddings|1931/07/07|18882|The Malloreon, Vol. 2: Sorceress of Darshiva, The Seeress of Kell (The Malloreon, #4-5)|None|4.29|3521|None|
+8732|David Eddings|1931/07/07|18881|The Malloreon, Vol. 1: Guardians of the West, King of the Murgos, Demon Lord of Karanda (The Malloreon, #1-3)|None|4.28|3115|None|
+8732|David Eddings|1931/07/07|44689|The Rivan Codex: Ancient Texts of the Belgariad and the Malloreon|1999|3.45|3765|1999|
+8732|David Eddings|1931/07/07|68806|The Elenium: The Diamond Throne, The Ruby Knight & The Sapphire Rose (The Elenium, #1-3)|None|4.12|3144|None|
+8732|David Eddings|1931/07/07|285098|The Treasured One (The Dreamers, #2)|2004|3.17|3609|2004|
+8732|David Eddings|1931/07/07|110688|Crystal Gorge (The Dreamers, #3)|2006|3.25|3224|2006|
+8732|David Eddings|1931/07/07|18880|The Younger Gods (The Dreamers, #4)|2007|3.17|2704|2007|
+4841825|Marion Zimmer Bradley|1930/06/03|402045|The Mists of Avalon (Avalon, #1)|1984|4.10|124403|1984|
+4841825|Marion Zimmer Bradley|1930/06/03|18892|The Forest House (Avalon, #2)|1995|3.81|11329|1995|
+4841825|Marion Zimmer Bradley|1930/06/03|18889|Lady of Avalon (Avalon, #3)|None|3.83|10683|None|
+4841825|Marion Zimmer Bradley|1930/06/03|84552|Priestess of Avalon (Avalon, #4)|2002|3.93|8920|2002|
+4841825|Marion Zimmer Bradley|1930/06/03|84544|The Firebrand|2003|4.03|6297|2003|
+4841825|Marion Zimmer Bradley|1930/06/03|673158|Darkover Landfall (Darkover, #1)|None|3.84|3867|None|
+4841825|Marion Zimmer Bradley|1930/06/03|361119|Hawkmistress! (Darkover, #6)|1982|3.95|2874|1982|
+4841825|Marion Zimmer Bradley|1930/06/03|361120|Stormqueen! (Darkover, #2)|1978|3.87|2877|1978|
+4841825|Marion Zimmer Bradley|1930/06/03|18886|The High Queen (The Mists of Avalon, #2)|1993|4.13|2652|1993|
+4841825|Marion Zimmer Bradley|1930/06/03|478846|The Fall of Atlantis (The Fall of Atlantis, #1-2)|1987|3.71|2601|1987|
+4841825|Marion Zimmer Bradley|1930/06/03|18890|The King Stag  (The Mists of Avalon, #3)|None|4.13|2205|None|
+4841825|Marion Zimmer Bradley|1930/06/03|915341|Black Trillium (The Saga of the Trillium, #1)|1992|3.51|2559|1992|
+4841825|Marion Zimmer Bradley|1930/06/03|472778|The Heritage of Hastur (Darkover, #18)|1984|3.99|2163|1984|
+4841825|Marion Zimmer Bradley|1930/06/03|176848|Tiger Burning Bright|1995|3.76|2284|1995|
+4841825|Marion Zimmer Bradley|1930/06/03|18887|The Prisoner in the Oak (The Mists of Avalon, #4)|1993|4.12|1949|1993|
+4841825|Marion Zimmer Bradley|1930/06/03|740506|The Bloody Sun (Darkover #17.2)|None|3.91|2009|None|
+4841825|Marion Zimmer Bradley|1930/06/03|947965|Thendara House (Darkover, #13)|1983|3.96|1906|1983|
+4841825|Marion Zimmer Bradley|1930/06/03|61894|The Forbidden Tower (Darkover, #12)|1994|4.03|1837|1994|
+4841825|Marion Zimmer Bradley|1930/06/03|472224|The Shattered Chain (Darkover, #10)|1977|3.91|1876|1977|
+4841825|Marion Zimmer Bradley|1930/06/03|567197|Sharra's Exile (Darkover, #21)|1981|3.91|1839|1981|
+4841825|Marion Zimmer Bradley|1930/06/03|281573|Exile's Song (Darkover, #24)|1997|3.95|1735|1997|
+4841825|Marion Zimmer Bradley|1930/06/03|84562|The Shadow Matrix (Darkover, #25)|1999|3.97|1638|1999|
+4841825|Marion Zimmer Bradley|1930/06/03|1086456|Two to Conquer (Darkover, #7)|1997|3.69|1675|1997|
+4841825|Marion Zimmer Bradley|1930/06/03|410899|Traitor's Sun (Darkover, #26)|2000|3.88|1561|2000|
+4841825|Marion Zimmer Bradley|1930/06/03|1053996|Rediscovery (Darkover, #9)|1993|3.78|1460|1993|
+4841825|Marion Zimmer Bradley|1930/06/03|314254|Lythande|1985|3.68|1412|1985|
+4841825|Marion Zimmer Bradley|1930/06/03|1343683|The Heirs of Hammerfell (Darkover, #8)|1989|3.63|1416|1989|
+4841825|Marion Zimmer Bradley|1930/06/03|61896|The Winds of Darkover (Darkover, #16)|None|3.75|1333|None|
+4841825|Marion Zimmer Bradley|1930/06/03|642266|Sword and Sorceress|1986|3.84|1265|1986|
+4841825|Marion Zimmer Bradley|1930/06/03|1106633|The Spell Sword (Darkover, #11)|1974|3.76|1292|1974|
+38550|Brandon Sanderson|None|68428|Mistborn: The Final Empire (Mistborn, #1)|2006|4.38|104162|2006|
+38550|Brandon Sanderson|None|68429|The Well of Ascension (Mistborn, #2)|2007|4.32|67484|2007|
+38550|Brandon Sanderson|None|2767793|The Hero of Ages (Mistborn, #3)|2008|4.41|64757|2008|
+38550|Brandon Sanderson|None|7235533|The Way of Kings (The Stormlight Archive, #1)|2010|4.60|61330|2010|
+38550|Brandon Sanderson|None|68427|Elantris (Elantris, #1)|2006|4.13|42011|2006|
+38550|Brandon Sanderson|None|10803121|The Alloy of Law (Mistborn, #4)|2011|4.17|29025|2011|
+38550|Brandon Sanderson|None|17182126|Steelheart (Reckoners, #1)|2013|4.12|28094|2013|
+38550|Brandon Sanderson|None|1268479|Warbreaker (Warbreaker, #1)|2009|4.16|27517|2009|
+38550|Brandon Sanderson|None|17332218|Words of Radiance (The Stormlight Archive, #2)|2014|4.78|14915|2014|
+38550|Brandon Sanderson|None|13578175|The Emperor's Soul|2012|4.31|12903|2012|
+38550|Brandon Sanderson|None|6604209|Mistborn Trilogy Boxed Set (Mistborn, #1-3)|2009|4.57|11274|2009|
+38550|Brandon Sanderson|None|10137823|The Rithmatist (Rithmatist, #1)|2013|4.25|11030|2013|
+38550|Brandon Sanderson|None|13452375|Legion (Legion, #1)|2012|4.10|9136|2012|
+38550|Brandon Sanderson|None|623976|Alcatraz Versus the Evil Librarians (Alcatraz, #1)|2007|3.87|7186|2007|
+38550|Brandon Sanderson|None|9329354|The Way of Kings, Part 1 (The Stormlight Archive, #1.1)|2011|4.67|3678|2011|
+38550|Brandon Sanderson|None|3485562|Alcatraz Versus the Scrivener's Bones (Alcatraz, #2)|2008|4.12|3392|2008|
+38550|Brandon Sanderson|None|12796771|Infinity Blade: Awakening (Infinity Blade, #1)|2011|3.81|3153|2011|
+38550|Brandon Sanderson|None|6366110|Alcatraz Versus the Knights of Crystallia (Alcatraz, #3)|2009|4.09|2740|2009|
+38550|Brandon Sanderson|None|11221285|The Way of Kings, Part 2 (The Stormlight Archive, #1.2)|2011|4.75|2238|2011|
+38550|Brandon Sanderson|None|8562526|Firstborn|2010|3.94|2603|2010|
+38550|Brandon Sanderson|None|18966322|Mitosis (Reckoners, #1.5)|2013|3.94|2159|2013|
+38550|Brandon Sanderson|None|7740659|Alcatraz Versus the Shattered Lens (Alcatraz, #4)|2010|4.08|2078|2010|
+38550|Brandon Sanderson|None|18361393|Infinity Blade: Redemption (Infinity Blade, #2)|2013|3.89|873|2013|
+38550|Brandon Sanderson|None|10852065|The Hope of Elantris|2006|3.65|671|2006|
+38550|Brandon Sanderson|None|6646849|Elantris, Part 1 of 3|None|4.41|329|None|
+38550|Brandon Sanderson|None|13552643|Defending Elysium|2008|4.17|325|2008|
+38550|Brandon Sanderson|None|6646851|Elantris, Part 2 of 3|None|4.44|262|None|
+38550|Brandon Sanderson|None|6646852|Elantris, Part 3 of 3|None|4.43|250|None|
+38550|Brandon Sanderson|None|18324059|Legion and The Emperor's Soul|2013|4.50|229|2013|
+38550|Brandon Sanderson|None|12348752|The Alloy of Law Excerpt: Prologue - Chapter 6|2011|4.49|195|2011|
+12534|Larry Niven|1938/04/30|61179|Ringworld (Ringworld, #1)|2005|3.93|49196|2005|
+12534|Larry Niven|1938/04/30|100365|The Mote in God's Eye (Moties, #1)|2011|4.03|35102|2011|
+12534|Larry Niven|1938/04/30|218467|Lucifer's Hammer|1977|3.95|23607|1977|
+12534|Larry Niven|1938/04/30|61181|The Ringworld Engineers (Ringworld, #2)|1997|3.83|15819|1997|
+12534|Larry Niven|1938/04/30|116356|Footfall|1997|3.84|8380|1997|
+12534|Larry Niven|1938/04/30|100366|Neutron Star (Known Space)|1977|4.06|7106|1977|
+12534|Larry Niven|1938/04/30|218453|The Gripping Hand (Moties #2)|1994|3.79|6580|1994|
+12534|Larry Niven|1938/04/30|100344|Protector (Known Space)|1987|4.02|5576|1987|
+12534|Larry Niven|1938/04/30|64467|The Ringworld Throne (Ringworld, #3)|1997|3.48|5230|1997|
+12534|Larry Niven|1938/04/30|939740|The Integral Trees|1985|3.72|4657|1985|
+12534|Larry Niven|1938/04/30|64466|Ringworld's Children (Ringworld, #4)|2005|3.67|4288|2005|
+12534|Larry Niven|1938/04/30|100359|Tales of Known Space: The Universe of Larry Niven|1981|4.13|3486|1981|
+12534|Larry Niven|1938/04/30|899392|The Legacy of Heorot (Heorot #1)|1989|3.89|3651|1989|
+12534|Larry Niven|1938/04/30|100369|Inferno (Inferno, #1)|None|3.81|3169|None|
+12534|Larry Niven|1938/04/30|64725|A World Out of Time (The State, #1)|1986|3.77|2828|1986|
+12534|Larry Niven|1938/04/30|218460|The Integral Trees / The Smoke Ring|None|3.65|2825|None|
+12534|Larry Niven|1938/04/30|302546|The Man-Kzin Wars (Man-Kzin Wars, #1)|None|3.60|2427|None|
+12534|Larry Niven|1938/04/30|116355|The Long Arm of Gil Hamilton (Known Space)|1981|3.82|2093|1981|
+12534|Larry Niven|1938/04/30|357922|Dream Park (Dream Park, #1)|2003|3.75|2124|2003|
+12534|Larry Niven|1938/04/30|100351|The Smoke Ring (The State, #3)|1988|3.70|2086|1988|
+12534|Larry Niven|1938/04/30|69448|Beowulf's Children (Heorot, #2)|1996|3.68|2042|1996|
+12534|Larry Niven|1938/04/30|64750|Destiny's Road|None|3.40|2186|None|
+12534|Larry Niven|1938/04/30|100360|Flatlander (Known Space)|2003|3.89|1838|2003|
+12534|Larry Niven|1938/04/30|218461|A Gift from Earth (Known Space)|1984|3.77|1893|1984|
+12534|Larry Niven|1938/04/30|583441|Oath of Fealty|1982|3.65|1910|1982|
+12534|Larry Niven|1938/04/30|218463|The World Of Ptavvs (Known Space)|2000|3.80|1746|2000|
+12534|Larry Niven|1938/04/30|218479|All The Myriad Ways|1971|3.99|1622|1971|
+12534|Larry Niven|1938/04/30|302537|Fleet of Worlds|None|3.71|1550|None|
+12534|Larry Niven|1938/04/30|100363|N-Space|1997|3.85|1479|1997|
+12534|Larry Niven|1938/04/30|218473|A Hole in Space|1986|3.92|1431|1986|
+4505535|Tim Voigt|None|11546038|The Hitchhiker's Guide to the Universe|None|4.18|11|None|
+4505535|Tim Voigt|None|11550108|Fritjof Capra, Tao, Physics|None|4.33|3|None|
+4505535|Tim Voigt|None|11214107|Ursula K. LeGuin, Scifi Legend|None|5.00|2|None|
+4505535|Tim Voigt|None|11753262|Stephen Hawking and Lou Gehrig's Disease|None|4.00|2|None|
+4505535|Tim Voigt|None|21899744|Let's Explore Astrophysics|None|5.00|1|None|
+4505535|Tim Voigt|None|11470077|Stephen Hawking, A Wonder of Physics|None|5.00|1|None|
+4505535|Tim Voigt|None|13246546|Zahi Hawass, Titan of Egypt|None|4.00|1|None|
+4505535|Tim Voigt|None|11492211|Kobo Abe|None|3.00|1|None|
+4505535|Tim Voigt|None|19421206|Understanding the Chess Game|None|0.0|0|None|
+4505535|Tim Voigt|None|11021020|Robert A. Heinlein, Scifi Legend|None|0.0|0|None|
+4505535|Tim Voigt|None|11366266|Neil deGrasse Tyson, Science Star Personality|None|0.0|0|None|
+4505535|Tim Voigt|None|12348832|Michio Kaku, Star Physics Personality|None|0.0|0|None|
+4505535|Tim Voigt|None|18895411|The Psychic and Edgar Cayce|None|0.0|0|None|
+4505535|Tim Voigt|None|19058054|Let's Explore Micronesia|None|0.0|0|None|
+4505535|Tim Voigt|None|9885750|The Grand Fantasy of Einstein: The Search for the Theory of the Universe|None|0.0|0|None|
+4505535|Tim Voigt|None|19476530|Physics: The Zen, The Tao, and The Dharma|None|0.0|0|None|
+4505535|Tim Voigt|None|19481625|The Nature of the Weak Nuclear Force|None|0.0|0|None|
+4505535|Tim Voigt|None|19498728|Amateur Astronomy, A Study|None|0.0|0|None|
+4505535|Tim Voigt|None|20488888|Science of Mammalogy|None|0.0|0|None|
+4505535|Tim Voigt|None|20871186|Science of Godzilla|None|0.0|0|None|
+4505535|Tim Voigt|None|21095120|How to Make Your Micronation|None|0.0|0|None|
+4505535|Tim Voigt|None|21101722|Let's Explore the Universe|None|0.0|0|None|
+4505535|Tim Voigt|None|21417257|The Science of Superman|None|0.0|0|None|
+4505535|Tim Voigt|None|21467341|Let's Explore Cryptozoology and Cryptobotany|None|0.0|0|None|
+4505535|Tim Voigt|None|22061102|Arecibo Telescope|None|0.0|0|None|
+4505535|Tim Voigt|None|22072510|Wheeler, Thorne, and Misner, Giants of Gravity|None|0.0|0|None|
+4505535|Tim Voigt|None|22317689|The Science of Wonder Woman|None|0.0|0|None|
+4505535|Tim Voigt|None|22318699|Science of King Kong|None|0.0|0|None|
+656983|J.R.R. Tolkien|1892/01/03|5907|The Hobbit|2002|4.20|1480313|2002|
+656983|J.R.R. Tolkien|1892/01/03|34|The Fellowship of the Ring (The Lord of the Rings, #1)|2003|4.29|1074009|2003|
+656983|J.R.R. Tolkien|1892/01/03|15241|The Two Towers (The Lord of the Rings, #2)|2003|4.38|334514|2003|
+656983|J.R.R. Tolkien|1892/01/03|18512|The Return of the King (The Lord of the Rings, #3)|1986|4.48|325218|1986|
+656983|J.R.R. Tolkien|1892/01/03|33|The Lord of the Rings (The Lord of the Rings, #1-3)|2005|4.43|272601|2005|
+656983|J.R.R. Tolkien|1892/01/03|659469|The Hobbit: Graphic Novel|1990|4.48|87227|1990|
+656983|J.R.R. Tolkien|1892/01/03|7332|The Silmarillion|2004|3.78|100840|2004|
+656983|J.R.R. Tolkien|1892/01/03|30|The Hobbit & The Lord of the Rings|2012|4.58|61226|2012|
+656983|J.R.R. Tolkien|1892/01/03|597790|The Children of Húrin|2007|3.86|28300|2007|
+656983|J.R.R. Tolkien|1892/01/03|7329|Unfinished Tales of Númenor and Middle-Earth|2000|3.86|15044|2000|
+656983|J.R.R. Tolkien|1892/01/03|7347|The Book of Lost Tales, Part One (The History of Middle-Earth, #1)|1992|3.72|7017|1992|
+656983|J.R.R. Tolkien|1892/01/03|23617|Roverandom|2002|3.83|5051|2002|
+656983|J.R.R. Tolkien|1892/01/03|66797|Smith of Wootton Major & Farmer Giles of Ham|1986|3.85|4831|1986|
+656983|J.R.R. Tolkien|1892/01/03|7346|The Book of Lost Tales, Part Two (The History of Middle-Earth, #2)|None|3.78|4243|None|
+656983|J.R.R. Tolkien|1892/01/03|7331|Letters from Father Christmas|2004|4.18|3168|2004|
+656983|J.R.R. Tolkien|1892/01/03|6352248|The Legend of Sigurd & Gudrún|2009|3.84|3268|2009|
+656983|J.R.R. Tolkien|1892/01/03|67996|The Peoples of Middle-earth (The History of Middle-earth, #12)|2002|4.15|2968|2002|
+656983|J.R.R. Tolkien|1892/01/03|7337|The Tolkien Reader|1986|3.93|3050|1986|
+656983|J.R.R. Tolkien|1892/01/03|2333|Farmer Giles of Ham|1999|3.76|3117|1999|
+656983|J.R.R. Tolkien|1892/01/03|2327|The Letters of J.R.R. Tolkien|2000|4.15|2486|2000|
+656983|J.R.R. Tolkien|1892/01/03|23603|Tales from the Perilous Realm|2002|4.07|2506|2002|
+656983|J.R.R. Tolkien|1892/01/03|23597|Tolkien's World: Paintings of Middle-Earth|None|4.27|2383|None|
+656983|J.R.R. Tolkien|1892/01/03|77682|The Treason of Isengard: The History of The Lord of the Rings, Part Two (The History of Middle-earth, #7)|1989|4.18|2317|1989|
+656983|J.R.R. Tolkien|1892/01/03|823754|The Annotated Hobbit: The Hobbit, or, There and back again|None|4.55|1898|None|
+656983|J.R.R. Tolkien|1892/01/03|77678|The Lays of Beleriand (The History of Middle-earth, #3)|1985|3.91|2004|1985|
+656983|J.R.R. Tolkien|1892/01/03|7348|Tree and Leaf: Includes Mythopoeia and The Homecoming of Beorhtnoth|2001|4.00|1812|2001|
+656983|J.R.R. Tolkien|1892/01/03|16075147|The Fall of Arthur|2013|3.83|1848|2013|
+656983|J.R.R. Tolkien|1892/01/03|35736|The Adventures of Tom Bombadil and Other Verses from the Red Book|1991|3.80|1523|1991|
+656983|J.R.R. Tolkien|1892/01/03|15351|The Return of the Shadow: The History of The Lord of the Rings, Part One (The History of Middle-Earth, #6)|2000|3.95|1425|2000|
+656983|J.R.R. Tolkien|1892/01/03|92005|The Shaping of Middle-Earth (The History of Middle-earth, #4)|2002|3.97|1386|2002|
+426944|T.H. White|1906/05/29|43545|The Once and Future King (The Once and Future King, #1-4)|1987|4.06|63067|1987|
+426944|T.H. White|1906/05/29|316845|The Sword in the Stone (The Once and Future King, #1)|None|3.92|11032|None|
+426944|T.H. White|1906/05/29|48044|The Book of Merlyn (The Once and Future King, #5)|1988|3.96|5187|1988|
+426944|T.H. White|1906/05/29|10571|The Once and Future King (The Once and Future King, #1-5)|1996|4.10|699|1996|
+426944|T.H. White|1906/05/29|29124|Mistress Masham's Repose|2012|3.93|713|2012|
+426944|T.H. White|1906/05/29|6400069|The Witch in the Wood (The Once and Future King, #2)|None|3.70|652|None|
+426944|T.H. White|1906/05/29|688770|The Ill-Made Knight (The Once and Future King, #3)|1940|3.87|582|1940|
+426944|T.H. White|1906/05/29|6400079|The Candle in the Wind (The Once and Future King, #4)|None|3.99|464|None|
+426944|T.H. White|1906/05/29|1188127|The Goshawk|2007|3.85|170|2007|
+426944|T.H. White|1906/05/29|821861|The Book of Beasts: Being a Translation from a Latin Bestiary of the 12th Century|2010|3.99|139|2010|
+426944|T.H. White|1906/05/29|472193|Darkness at Pemberley|None|3.45|62|None|
+426944|T.H. White|1906/05/29|4067357|The Maharajah & Other Stories|1983|3.41|41|1983|
+426944|T.H. White|1906/05/29|688771|The Age of Scandal|1987|3.63|35|1987|
+426944|T.H. White|1906/05/29|2754327|The Master|1967|3.12|24|1967|
+426944|T.H. White|1906/05/29|2548165|The Witch in the Wood & The Ill-Made Knight (The Once and Future King, #2 & 3)|2008|3.70|20|2008|
+426944|T.H. White|1906/05/29|262602|England Have My Bones|1986|3.32|22|1986|
+426944|T.H. White|1906/05/29|4863071|The Candle in the Wind & The Book of Merlyn (The Once and Future King, #4 & 5)|2008|3.55|20|2008|
+426944|T.H. White|1906/05/29|1404040|The Elephant and the Kangaroo|1989|3.09|22|1989|
+426944|T.H. White|1906/05/29|262572|The Magic World of T.H. White: Mistress Masham's Repose/Book of Merlyn/Once & Future King|1980|4.42|12|1980|
+426944|T.H. White|1906/05/29|21899035|The Sword In The Stone|None|4.55|11|None|
+426944|T.H. White|1906/05/29|109218|Letters to a Friend: The Correspondence Between T.H. White & L.J. Potts|1982|4.33|9|1982|
+426944|T.H. White|1906/05/29|3935087|The Godstone and the Blackymor|1959|4.00|9|1959|
+426944|T.H. White|1906/05/29|472194|Farewell Victoria|None|4.00|7|None|
+426944|T.H. White|1906/05/29|1864674|Der König auf Camelot 2: Der missratene Ritter / Die Kerze im Wind (The Once and Future King, #3-#4)|1982|3.12|8|1982|
+426944|T.H. White|1906/05/29|7770136|Der König auf Camelot 1: Das Schwert im Stein / Die Königin von Luft und Dunkelheit (The Once and Future King, #1-#2)|1980|3.33|6|1980|
+426944|T.H. White|1906/05/29|3679339|A Joy Proposed: Poems|1982|3.75|4|1982|
+426944|T.H. White|1906/05/29|13453288|The ScandalMonger|1952|3.00|2|1952|
+426944|T.H. White|1906/05/29|12895610|First Lesson|None|2.50|2|None|
+426944|T.H. White|1906/05/29|8602388|America at Last|None|4.00|1|None|
+426944|T.H. White|1906/05/29|3567716|They Winter Abroad|None|1.00|1|None|
+5823409|Jesse Russell|None|16695830|Nick and Norah's Infinite Playlist|2012|3.77|134|2012|
+5823409|Jesse Russell|None|15971714|Percy Jackson|2012|4.00|85|2012|
+5823409|Jesse Russell|None|15973770|Oryx and Crake|2012|3.63|83|2012|
+5823409|Jesse Russell|None|16707973|27 Dresses|2012|4.02|52|2012|
+5823409|Jesse Russell|None|8835621|These Are My Words|2005|3.64|42|2005|
+5823409|Jesse Russell|None|15972946|Crazy, Stupid, Love.|2012|3.97|36|2012|
+5823409|Jesse Russell|None|16721999|Diary of a Wimpy Kid (Series)|2012|4.31|26|2012|
+5823409|Jesse Russell|None|15971971|A Thousand Splendid Suns|2012|4.00|25|2012|
+5823409|Jesse Russell|None|16663934|Tomorrow, When the War Began|2012|3.81|27|2012|
+5823409|Jesse Russell|None|16662572|List of the 39 Clues Characters|2012|3.95|22|2012|
+5823409|Jesse Russell|None|16495897|Diary of a Wimpy Kid: Rodrick Rules|2012|4.69|16|2012|
+5823409|Jesse Russell|None|16659217|The Protocols of the Elders of Zion|2012|3.36|14|2012|
+5823409|Jesse Russell|None|16392251|The Elegance of the Hedgehog|2012|4.09|11|2012|
+5823409|Jesse Russell|None|16495902|A Sand County Almanac|2012|4.00|11|2012|
+5823409|Jesse Russell|None|16732664|Danielle Steel|2012|3.64|11|2012|
+5823409|Jesse Russell|None|16495808|Jeeves and Wooster|2012|4.75|8|2012|
+5823409|Jesse Russell|None|16722288|Anita Blake|2012|4.50|8|2012|
+5823409|Jesse Russell|None|16450176|The Time Traveler's Wife|2012|4.38|8|2012|
+5823409|Jesse Russell|None|16659161|Perfume: The Story of a Murderer|2012|4.38|8|2012|
+5823409|Jesse Russell|None|16724880|Roald Dahl: Collected Stories|2012|4.38|8|2012|
+5823409|Jesse Russell|None|16710214|Y: The Last Man|2012|4.57|7|2012|
+5823409|Jesse Russell|None|16633667|Junie B. Jones|2012|4.57|7|2012|
+5823409|Jesse Russell|None|16695531|Ender's Game|2012|4.57|7|2012|
+5823409|Jesse Russell|None|16709492|Sidney Sheldon|2012|4.00|8|2012|
+5823409|Jesse Russell|None|16738144|Waiter Rant|2012|3.88|8|2012|
+5823409|Jesse Russell|None|16661621|List of Skulduggery Pleasant Characters|2012|5.00|6|2012|
+5823409|Jesse Russell|None|16633669|Zorba the Greek|2012|4.00|7|2012|
+5823409|Jesse Russell|None|16742567|Anne of Windy Poplars|2012|4.33|6|2012|
+5823409|Jesse Russell|None|17026542|Erin Hunter|2012|4.17|6|2012|
+5823409|Jesse Russell|None|16739759|Diana Gabaldon|2012|4.17|6|2012|
+10538|Carl Sagan|1934/11/09|61666|Contact|1997|4.02|59812|1997|
+10538|Carl Sagan|1934/11/09|55030|Cosmos|None|4.35|38771|None|
+10538|Carl Sagan|1934/11/09|17349|The Demon-Haunted World: Science as a Candle in the Dark|None|4.29|25760|None|
+10538|Carl Sagan|1934/11/09|61663|Pale Blue Dot: A Vision of the Human Future in Space|1997|4.32|11075|1997|
+10538|Carl Sagan|1934/11/09|32276|Dragons of Eden: Speculations on the Evolution of Human Intelligence|1986|4.18|8291|1986|
+10538|Carl Sagan|1934/11/09|61665|Billions & Billions: Thoughts on Life and Death at the Brink of the Millennium|1998|4.25|6346|1998|
+10538|Carl Sagan|1934/11/09|485812|Broca's Brain: Reflections on the Romance of Science|1986|4.02|4919|1986|
+10538|Carl Sagan|1934/11/09|61661|The Varieties of Scientific Experience: A Personal View of the Search for God|2006|4.33|4418|2006|
+10538|Carl Sagan|1934/11/09|61662|Shadows of Forgotten Ancestors|1993|4.27|2234|1993|
+10538|Carl Sagan|1934/11/09|151691|Cosmic Connection: An Extraterrestrial Perspective|None|4.15|661|None|
+10538|Carl Sagan|1934/11/09|296420|Comet|1997|3.92|411|1997|
+10538|Carl Sagan|1934/11/09|275567|Intelligent Life in the Universe|None|4.15|197|None|
+10538|Carl Sagan|1934/11/09|263952|Murmurs of Earth: The Voyager Interstellar Record|None|4.26|167|None|
+10538|Carl Sagan|1934/11/09|473606|A Path Where No Man Thought: Nuclear Winter and Its Implications|None|4.12|60|None|
+10538|Carl Sagan|1934/11/09|379244|Life in the Universe: Essays|None|4.22|46|None|
+10538|Carl Sagan|1934/11/09|4290440|The New Solar System|1990|4.26|27|1990|
+10538|Carl Sagan|1934/11/09|260640|Visions for the 21st Century|1997|4.05|21|1997|
+10538|Carl Sagan|1934/11/09|3474285|Other Worlds|None|3.68|22|None|
+10538|Carl Sagan|1934/11/09|260642|Communication with Extraterrestrial Intelligence|1975|4.47|17|1975|
+10538|Carl Sagan|1934/11/09|947859|Planets|1969|4.35|17|1969|
+10538|Carl Sagan|1934/11/09|17264321|The Burden of Skepticism|None|3.73|11|None|
+10538|Carl Sagan|1934/11/09|17559400|The Quest for Extraterrestrial Intelligence|1978|3.50|4|1978|
+10538|Carl Sagan|1934/11/09|11477453|Space Age Dreamer|None|2.75|4|None|
+10538|Carl Sagan|1934/11/09|15210844|Untitled on Mars|None|3.33|3|None|
+10538|Carl Sagan|1934/11/09|22017028|Pálido ponto azul|1996|5.00|1|1996|
+10538|Carl Sagan|1934/11/09|22111049|Contact, Book Club Edition|None|5.00|1|None|
+10538|Carl Sagan|1934/11/09|22069854|The Dragons of Eden|None|4.00|1|None|
+10538|Carl Sagan|1934/11/09|13092621|サイエンス・アドベンチャー(上) [Saiensu . Adobenchā]|1986|1.50|2|1986|
+10538|Carl Sagan|1934/11/09|7621583|Organic matter and the moon|None|1.00|1|None|
+10538|Carl Sagan|1934/11/09|8734090|悪霊にさいなまれる世界(上)―「知の闇を照らす灯」としての科学 [Akuryō ni Sainamareru Sekai (Chi No Yami O Terasu Tomoshibi) to Shite no Kagaku]|2009|1.00|1|2009|
+2687|Dan Simmons|1948/04/04|77566|Hyperion (Hyperion Cantos, #1)|1990|4.16|67270|1990|
+2687|Dan Simmons|1948/04/04|77565|The Fall of Hyperion (Hyperion Cantos, #2)|None|4.13|38581|None|
+2687|Dan Simmons|1948/04/04|11289|The Rise of Endymion (Hyperion Cantos, #4)|1998|4.12|18325|1998|
+2687|Dan Simmons|1948/04/04|3977|Endymion (Hyperion Cantos, #3)|1997|4.10|17498|1997|
+2687|Dan Simmons|1948/04/04|3973|Ilium (Ilium, #1)|2005|3.99|13940|2005|
+2687|Dan Simmons|1948/04/04|3974|The Terror|2007|3.97|13915|2007|
+2687|Dan Simmons|1948/04/04|11286|Carrion Comfort|None|3.87|8886|None|
+2687|Dan Simmons|1948/04/04|11279|Summer of Night|None|3.98|8184|None|
+2687|Dan Simmons|1948/04/04|3972|Olympos (Ilium, #2)|2006|3.90|7948|2006|
+2687|Dan Simmons|1948/04/04|3222979|Drood|2009|3.45|8494|2009|
+2687|Dan Simmons|1948/04/04|3979|Song of Kali|None|3.60|4586|None|
+2687|Dan Simmons|1948/04/04|11290|Children of the Night|None|3.66|3376|None|
+2687|Dan Simmons|1948/04/04|3978|A Winter Haunting|2002|3.50|2725|2002|
+2687|Dan Simmons|1948/04/04|3943|The Hyperion Omnibus: Hyperion, The Fall of Hyperion|2004|4.37|1436|2004|
+2687|Dan Simmons|1948/04/04|9432902|Flashback|2011|3.19|1907|2011|
+2687|Dan Simmons|1948/04/04|11277|The Hollow Man|1993|3.40|1679|1993|
+2687|Dan Simmons|1948/04/04|6505519|Black Hills|2010|3.54|1315|2010|
+2687|Dan Simmons|1948/04/04|17333261|The Abominable|2013|3.50|1126|2013|
+2687|Dan Simmons|1948/04/04|11278|Hardcase|2002|3.68|1047|2002|
+2687|Dan Simmons|1948/04/04|11281|Darwin's Blade|2001|3.26|950|2001|
+2687|Dan Simmons|1948/04/04|11291|Lovedeath|None|3.70|833|None|
+2687|Dan Simmons|1948/04/04|11535|The Crook Factory|2000|3.74|720|2000|
+2687|Dan Simmons|1948/04/04|3975|Worlds Enough & Time: Five Tales of Speculative Fiction|2002|3.74|655|2002|
+2687|Dan Simmons|1948/04/04|3976|Hard Freeze: A Joe Kurtz Novel|2003|3.75|611|2003|
+2687|Dan Simmons|1948/04/04|11283|Prayers to Broken Stones|1997|3.79|567|1997|
+2687|Dan Simmons|1948/04/04|159320|The Endymion Omnibus|2005|4.37|488|2005|
+2687|Dan Simmons|1948/04/04|11282|Hard as Nails: A Joe Kurtz Novel|2004|3.80|548|2004|
+2687|Dan Simmons|1948/04/04|11284|Phases of Gravity|2004|3.52|560|2004|
+2687|Dan Simmons|1948/04/04|11287|Fires of Eden|1996|3.30|534|1996|
+2687|Dan Simmons|1948/04/04|2930753|Hyperion / The Fall of Hyperion / Endymion / Rise of Endymion|1998|4.42|382|1998|
+5791|Max Brooks|None|8908|World War Z: An Oral History of the Zombie War|2006|4.01|208700|2006|
+5791|Max Brooks|None|535441|The Zombie Survival Guide: Complete Protection from the Living Dead|2003|3.87|62012|2003|
+5791|Max Brooks|None|2574748|The Zombie Survival Guide: Recorded Attacks|2009|3.75|4310|2009|
+5791|Max Brooks|None|6721385|The New Dead: A Zombie Anthology|2010|3.81|2737|2010|
+5791|Max Brooks|None|8305839|The Living Dead 2|2010|3.96|1317|2010|
+5791|Max Brooks|None|13135342|The Essential Max Brooks: World War Z and The Zombie Survival Guide|2006|4.15|727|2006|
+5791|Max Brooks|None|13452590|Closure, Limited|2012|3.36|474|2012|
+5791|Max Brooks|None|8488204|Zombies: The Recent Dead|2010|3.64|394|2010|
+5791|Max Brooks|None|18904557|Everything You Ever Wanted to Know About Zombies|None|4.05|194|None|
+5791|Max Brooks|None|790972|Dark Delicacies II (Dark Delecacies, #2)|2007|3.60|207|2007|
+5791|Max Brooks|None|18166872|The Harlem Hellfighters|2014|4.03|154|2014|
+5791|Max Brooks|None|8387671|G.I. Joe: Hearts and Minds|2010|3.73|164|2010|
+5791|Max Brooks|None|17672088|World War Z: The Lost Files: A Companion to the Abridged Edition|2013|4.44|110|2013|
+5791|Max Brooks|None|11679109|The Zombie Survival Guide Journal|2011|4.07|115|2011|
+5791|Max Brooks|None|20919812|Max Brooks' The Extinction Parade, Volume 1|2014|3.82|67|2014|
+5791|Max Brooks|None|9713240|G.I. Joe: Tales From The Cobra Wars|None|3.57|70|None|
+5791|Max Brooks|None|12439581|The Zombie Survival Guide: Recorded Attack: Downtown LA|2011|3.90|51|2011|
+5791|Max Brooks|None|19383092|La marcha zombi|None|3.73|11|None|
+5791|Max Brooks|None|17448090|Great Wall: A Story From the Zombie War|None|3.90|10|None|
+5791|Max Brooks|None|17899530|Shadow Walk|2013|2.92|13|2013|
+5791|Max Brooks|None|17199455|Tales from the Cobra Wars|2013|3.56|9|2013|
+5791|Max Brooks|None|19098494|Tales from the Cobra Wars: A G.I. Joe Anthology|None|4.50|6|None|
+5791|Max Brooks|None|18752312|Intégrale Z: World War Z / Closure, Limited et autres histoires de zombies / Guide de survie en territoire zombie|2013|4.25|4|2013|
+5791|Max Brooks|None|18124618|G.I. JOE: The IDW Collection Volume 3|None|3.75|4|None|
+5791|Max Brooks|None|20321184|The Extinction Parade #1|2013|3.50|2|2013|
+5791|Max Brooks|None|22178157|World War Z 1st (first) edition Text Only|None|5.00|1|None|
+5791|Max Brooks|None|22317948|World War Z: An Oral History of the Zombie War[ WORLD WAR Z: AN ORAL HISTORY OF THE ZOMBIE WAR ] by Brooks, Max(Author)(Paperback)Oct 16 2007|None|0.0|0|None|
+1067608|Peter S. Beagle|1939/04/20|29127|The Last Unicorn (The Last Unicorn, #1)|2008|4.17|55029|2008|
+1067608|Peter S. Beagle|1939/04/20|76718|A Fine and Private Place|1992|4.00|2147|1992|
+1067608|Peter S. Beagle|1939/04/20|11933|Tamsin|1999|4.00|2064|1999|
+1067608|Peter S. Beagle|1939/04/20|11938|The Innkeeper's Song|1993|3.87|1315|1993|
+1067608|Peter S. Beagle|1939/04/20|2387722|Two Hearts (The Last Unicorn, #1.5)|2008|4.20|584|2008|
+1067608|Peter S. Beagle|1939/04/20|474740|The Folk of the Air|None|3.69|605|None|
+1067608|Peter S. Beagle|1939/04/20|474752|The Unicorn Sonata|1996|3.63|577|1996|
+1067608|Peter S. Beagle|1939/04/20|11932|The Line Between|2006|4.09|463|2006|
+1067608|Peter S. Beagle|1939/04/20|3465594|We Never Talk about My Brother|2009|4.01|462|2009|
+1067608|Peter S. Beagle|1939/04/20|474750|Giant Bones|1997|4.00|413|1997|
+1067608|Peter S. Beagle|1939/04/20|9816552|The Urban Fantasy Anthology|2011|3.54|377|2011|
+1067608|Peter S. Beagle|1939/04/20|11935|The Rhinoceros Who Quoted Nietzsche and Other Odd Acquaintances|2003|4.11|276|2003|
+1067608|Peter S. Beagle|1939/04/20|11934|The Fantasy Worlds of Peter Beagle|1979|4.26|244|1979|
+1067608|Peter S. Beagle|1939/04/20|8879516|Sleight of Hand|2011|4.24|244|2011|
+1067608|Peter S. Beagle|1939/04/20|640975|I See by My Outfit|2007|4.08|215|2007|
+1067608|Peter S. Beagle|1939/04/20|7850063|The Secret History of Fantasy|2010|3.82|217|2010|
+1067608|Peter S. Beagle|1939/04/20|258336|A Dance for Emilia|2000|3.70|194|2000|
+1067608|Peter S. Beagle|1939/04/20|474742|Lila the Werewolf|None|3.69|131|None|
+1067608|Peter S. Beagle|1939/04/20|1183154|Immortal Unicorn|None|3.95|117|None|
+1067608|Peter S. Beagle|1939/04/20|29130|A Fine and Private Place/The Last Unicorn|None|4.41|94|None|
+1067608|Peter S. Beagle|1939/04/20|92740|The Last Unicorn: The Lost Version|2007|3.95|103|2007|
+1067608|Peter S. Beagle|1939/04/20|7193004|Mirror Kingdoms: The Best of Peter S. Beagle|2010|4.60|55|2010|
+1067608|Peter S. Beagle|1939/04/20|7978653|Return|None|3.66|59|None|
+1067608|Peter S. Beagle|1939/04/20|258337|Immortal Unicorn (Immortal Unicorn, #2)|None|3.91|54|None|
+1067608|Peter S. Beagle|1939/04/20|13482969|Come Lady Death|1991|4.06|49|1991|
+1067608|Peter S. Beagle|1939/04/20|1183148|Immortal Unicorn (Immortal Unicorn, #1)|1998|3.60|30|1998|
+1067608|Peter S. Beagle|1939/04/20|3124793|Strange Roads|2008|4.04|25|2008|
+1067608|Peter S. Beagle|1939/04/20|6327851|Das letzte Einhorn und Zwei Herzen|2009|3.96|25|2009|
+1067608|Peter S. Beagle|1939/04/20|15985|The Garden of Earthly Delights (Studio Book)|1982|4.17|18|1982|
+1067608|Peter S. Beagle|1939/04/20|13482216|El Regalo|2007|4.00|10|2007|
+12476|Joe Haldeman|1943/06/09|21611|The Forever War (The Forever War, #1)|None|4.12|56674|None|
+12476|Joe Haldeman|1943/06/09|21618|Forever Peace (The Forever War, #2)|1998|3.70|8916|1998|
+12476|Joe Haldeman|1943/06/09|21608|The Accidental Time Machine|2007|3.64|3897|2007|
+12476|Joe Haldeman|1943/06/09|21607|Camouflage|2005|3.57|2951|2005|
+12476|Joe Haldeman|1943/06/09|21620|Forever Free (The Forever War, #3)|2000|3.36|2016|2000|
+12476|Joe Haldeman|1943/06/09|2407022|Marsbound|2008|3.51|1468|2008|
+12476|Joe Haldeman|1943/06/09|312612|Mindbridge|None|3.71|1144|None|
+12476|Joe Haldeman|1943/06/09|362801|All My Sins Remembered|2003|3.79|840|2003|
+12476|Joe Haldeman|1943/06/09|21610|Old Twentieth|2006|3.49|837|2006|
+12476|Joe Haldeman|1943/06/09|6658115|Starbound|2010|3.39|729|2010|
+12476|Joe Haldeman|1943/06/09|879803|Peace & War (The Forever War Omnibus, #1-3)|2006|3.97|405|2006|
+12476|Joe Haldeman|1943/06/09|388952|The Hemingway Hoax|1991|3.46|402|1991|
+12476|Joe Haldeman|1943/06/09|21615|The Coming|2001|3.08|445|2001|
+12476|Joe Haldeman|1943/06/09|92414|Worlds (Worlds, #1)|1990|3.47|392|1990|
+12476|Joe Haldeman|1943/06/09|11407995|Earthbound|2011|3.25|371|2011|
+12476|Joe Haldeman|1943/06/09|21629|Worlds Apart (Worlds 2)|1992|3.59|279|1992|
+12476|Joe Haldeman|1943/06/09|216624|Planet of Judgment (Star Trek Adventures, #5)|None|3.36|282|None|
+12476|Joe Haldeman|1943/06/09|21617|Buying Time|1990|3.71|251|1990|
+12476|Joe Haldeman|1943/06/09|21609|A Separate War and Other Stories|2006|3.69|229|2006|
+12476|Joe Haldeman|1943/06/09|21630|World Without End (Star Trek Adventures, #10)|1993|3.32|250|1993|
+12476|Joe Haldeman|1943/06/09|995860|There Is No Darkness|1983|3.55|210|1983|
+12476|Joe Haldeman|1943/06/09|423099|Tool of the Trade|None|3.69|188|None|
+12476|Joe Haldeman|1943/06/09|21613|Worlds Enough and Time (Worlds 3)|1992|3.47|177|1992|
+12476|Joe Haldeman|1943/06/09|98133|Guardian|2004|3.01|190|2004|
+12476|Joe Haldeman|1943/06/09|21621|Dealing in Futures|1993|3.78|139|1993|
+12476|Joe Haldeman|1943/06/09|388949|Infinite Dreams|1979|3.59|145|1979|
+12476|Joe Haldeman|1943/06/09|423100|None So Blind: A Short Story Collection|1997|3.78|117|1997|
+12476|Joe Haldeman|1943/06/09|21619|1968|None|3.86|96|None|
+12476|Joe Haldeman|1943/06/09|18079621|Work Done for Hire|2014|2.89|114|2014|
+12476|Joe Haldeman|1943/06/09|21624|Study War No More: A Selection of Alternatives|1978|3.58|77|1978|
+1654|Terry Pratchett|1948/04/28|12067|Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch|2006|4.27|188764|2006|
+1654|Terry Pratchett|1948/04/28|34497|The Color of Magic (Discworld, #1)|2005|3.93|130336|2005|
+1654|Terry Pratchett|1948/04/28|386372|Mort (Discworld, #4)|2001|4.15|69149|2001|
+1654|Terry Pratchett|1948/04/28|64216|Guards! Guards! (Discworld, #8)|2001|4.27|67158|2001|
+1654|Terry Pratchett|1948/04/28|47989|Night Watch (Discworld, #29)|2011|4.44|54321|2011|
+1654|Terry Pratchett|1948/04/28|34484|Small Gods (Discworld, #13)|None|4.24|54480|None|
+1654|Terry Pratchett|1948/04/28|34507|Equal Rites (Discworld, #3)|2005|3.91|56695|2005|
+1654|Terry Pratchett|1948/04/28|64222|Going Postal (Discworld, #33)|2005|4.32|49280|2005|
+1654|Terry Pratchett|1948/04/28|34506|The Light Fantastic (Discworld, #2)|2000|3.87|51145|2000|
+1654|Terry Pratchett|1948/04/28|34494|The Wee Free Men (Discworld, #30) (Tiffany Aching, #1)|2006|4.22|43209|2006|
+1654|Terry Pratchett|1948/04/28|34504|Wyrd Sisters (Discworld, #6)|2001|4.06|41150|2001|
+1654|Terry Pratchett|1948/04/28|34517|Reaper Man (Discworld, #11)|None|4.23|37062|None|
+1654|Terry Pratchett|1948/04/28|34532|Hogfather (Discworld, #20)|2006|4.16|36739|2006|
+1654|Terry Pratchett|1948/04/28|400354|Men at Arms (Discworld, #15)|2003|4.29|35404|2003|
+1654|Terry Pratchett|1948/04/28|34527|Feet of Clay (Discworld, #19)|2005|4.20|33737|2005|
+1654|Terry Pratchett|1948/04/28|2442|Witches Abroad (Discworld, #12)|2002|4.13|32680|2002|
+1654|Terry Pratchett|1948/04/28|34529|Lords and Ladies (Discworld, #14)|None|4.09|32995|None|
+1654|Terry Pratchett|1948/04/28|62530|Thud! (Discworld, #34)|2006|4.23|31707|2006|
+1654|Terry Pratchett|1948/04/28|34499|Sourcery (Discworld, #5)|2001|3.82|34920|2001|
+1654|Terry Pratchett|1948/04/28|34501|A Hat Full of Sky (Discworld, #32)|2005|4.25|31313|2005|
+1654|Terry Pratchett|1948/04/28|34502|Soul Music (Discworld, #16)|1999|3.97|32888|1999|
+1654|Terry Pratchett|1948/04/28|34511|Monstrous Regiment|2003|4.11|31360|2003|
+1654|Terry Pratchett|1948/04/28|48002|Thief of Time (Discworld, #26)|2002|4.19|30637|2002|
+1654|Terry Pratchett|1948/04/28|63720|The Fifth Elephant (Discworld, #24)|2008|4.17|29468|2008|
+1654|Terry Pratchett|1948/04/28|64217|Pyramids (Discworld, #7)|2001|3.84|31842|2001|
+1654|Terry Pratchett|1948/04/28|7557548|Men at Arms: The Play|2000|4.38|27340|2000|
+1654|Terry Pratchett|1948/04/28|116296|Making Money (Discworld, #36)|2007|4.18|28171|2007|
+1654|Terry Pratchett|1948/04/28|34510|Moving Pictures (Discworld, #10)|2005|3.85|29398|2005|
+1654|Terry Pratchett|1948/04/28|34498|The Truth (Discworld, #25)|2002|4.20|26264|2002|
+1654|Terry Pratchett|1948/04/28|34541|Carpe Jugulum (Discworld, #23)|1999|4.05|26617|1999|
+12980|Stephen R. Donaldson|1947/05/13|219205|Lord Foul's Bane (The Chronicles of Thomas Covenant the Unbeliever, #1)|1989|3.69|21630|1989|
+12980|Stephen R. Donaldson|1947/05/13|228990|The Illearth War (The Chronicles of Thomas Covenant the Unbeliever, #2)|1989|3.97|15047|1989|
+12980|Stephen R. Donaldson|1947/05/13|687215|The Power That Preserves (The Chronicles of Thomas Covenant the Unbeliever, #3)|1987|3.97|14342|1987|
+12980|Stephen R. Donaldson|1947/05/13|404223|The Wounded Land (The Second Chronicles of Thomas Covenant, #1)|1997|3.93|10683|1997|
+12980|Stephen R. Donaldson|1947/05/13|228992|White Gold Wielder (The Second Chronicles of Thomas Covenant, #3)|1997|3.97|10395|1997|
+12980|Stephen R. Donaldson|1947/05/13|22875|The One Tree (The Second Chronicles of Thomas Covenant, #2)|1997|3.91|9939|1997|
+12980|Stephen R. Donaldson|1947/05/13|179033|The Chronicles of Thomas Covenant, the Unbeliever (The Chronicles of Thomas Covenant, #1-3)|1993|3.75|8126|1993|
+12980|Stephen R. Donaldson|1947/05/13|22867|A Man Rides Through|2003|3.99|7602|2003|
+12980|Stephen R. Donaldson|1947/05/13|177250|The Mirror of Her Dreams|2003|3.91|7464|2003|
+12980|Stephen R. Donaldson|1947/05/13|427353|The Gap Into Conflict: The Real Story (Gap, #1)|1992|3.71|4914|1992|
+12980|Stephen R. Donaldson|1947/05/13|22877|The Gap Into Power: A Dark and Hungry God Arises (Gap, #3)|2009|4.03|3447|2009|
+12980|Stephen R. Donaldson|1947/05/13|337100|The Runes of the Earth (The Last Chronicles of Thomas Covenant, #1)|2004|3.71|3735|2004|
+12980|Stephen R. Donaldson|1947/05/13|22874|The Gap Into Vision: Forbidden Knowledge (Gap, #2)|2010|3.95|3403|2010|
+12980|Stephen R. Donaldson|1947/05/13|537148|The Gap Into Ruin: This Day All Gods Die (Gap, #5)|1996|4.19|3168|1996|
+12980|Stephen R. Donaldson|1947/05/13|22871|The Gap Into Madness: Chaos and Order (Gap, #4)|1994|4.10|3087|1994|
+12980|Stephen R. Donaldson|1947/05/13|418785|Fatal Revenant (The Last Chronicles of Thomas Covenant, #2)|2007|3.77|2735|2007|
+12980|Stephen R. Donaldson|1947/05/13|228991|The Second Chronicles of Thomas Covenant (The Second Chronicles of Thomas Covenant, #1-3)|1994|3.98|1892|1994|
+12980|Stephen R. Donaldson|1947/05/13|6237780|Against All Things Ending (The Last Chronicles of Thomas Covenant, #3)|2010|3.82|1833|2010|
+12980|Stephen R. Donaldson|1947/05/13|219222|Daughter of Regals and Other Tales|1985|3.75|1528|1985|
+12980|Stephen R. Donaldson|1947/05/13|22876|Reave the Just and Other Tales|2000|3.86|770|2000|
+12980|Stephen R. Donaldson|1947/05/13|12407466|The Last Dark (The Last Chronicles of Thomas Covenant, #4 )|2013|4.03|736|2013|
+12980|Stephen R. Donaldson|1947/05/13|219220|Mordant's Need|None|4.09|510|None|
+12980|Stephen R. Donaldson|1947/05/13|596519|Gilden-Fire|None|3.78|551|None|
+12980|Stephen R. Donaldson|1947/05/13|537151|The Man Who Fought Alone|2001|3.64|256|2001|
+12980|Stephen R. Donaldson|1947/05/13|537147|The Man Who Killed His Brother|2002|3.56|247|2002|
+12980|Stephen R. Donaldson|1947/05/13|179030|The Man Who Risked His Partner|2003|3.64|196|2003|
+12980|Stephen R. Donaldson|1947/05/13|11610026|First & Second Chronicles of Thomas Covenant the Unbeliever: Lord Foul's Bane + The Illearth War + The Power That Preserves + The Wounded Land + The One Tree + White Gold Wielder|None|4.55|155|None|
+12980|Stephen R. Donaldson|1947/05/13|179029|The Man Who Tried to Get Away|2004|3.62|162|2004|
+12980|Stephen R. Donaldson|1947/05/13|219207|Strange Dreams|None|3.56|80|None|
+12980|Stephen R. Donaldson|1947/05/13|9827445|The Best of Stephen R. Donaldson|2011|4.50|16|2011|
+16094|Lois McMaster Bujold|None|61886|The Curse of Chalion (Chalion, #1)|2003|4.14|14015|2003|
+16094|Lois McMaster Bujold|None|61905|Barrayar (Vorkosigan Saga, #7)|2003|4.30|11690|2003|
+16094|Lois McMaster Bujold|None|61903|Shards of Honour  (Vorkosigan Saga, #1)|2003|4.15|10786|2003|
+16094|Lois McMaster Bujold|None|61904|Paladin of Souls (Chalion, #2)|2005|4.10|10774|2005|
+16094|Lois McMaster Bujold|None|61906|The Warrior's Apprentice (Vorkosigan Saga, #2)|2003|4.29|10214|2003|
+16094|Lois McMaster Bujold|None|68483|The Vor Game (Vorkosigan Saga, #6)|2002|4.24|9311|2002|
+16094|Lois McMaster Bujold|None|61909|Mirror Dance (Vorkosigan Saga, #8)|1995|4.29|9192|1995|
+16094|Lois McMaster Bujold|None|61899|A Civil Campaign (Vorkosigan Saga, #12)|None|4.41|7876|None|
+16094|Lois McMaster Bujold|None|61880|Memory (Vorkosigan Saga, #10)|2005|4.41|7511|2005|
+16094|Lois McMaster Bujold|None|61900|Cordelia's Honor (Vorkosigan Omnibus, #1)|None|4.35|7361|None|
+16094|Lois McMaster Bujold|None|76812|Cetaganda (Vorkosigan Saga, #9)|None|4.12|7611|None|
+16094|Lois McMaster Bujold|None|61884|Komarr (Vorkosigan Saga, #11)|None|4.25|6921|None|
+16094|Lois McMaster Bujold|None|61915|Falling Free (Vorkosigan Saga, #4)|2004|3.79|7700|2004|
+16094|Lois McMaster Bujold|None|296182|Brothers in Arms (Vorkosigan Saga, #5)|2001|4.18|6862|2001|
+16094|Lois McMaster Bujold|None|61901|Diplomatic Immunity (Vorkosigan Saga, #13)|2003|4.12|6587|2003|
+16094|Lois McMaster Bujold|None|7841670|CryoBurn (Vorkosigan Saga, #14)|2010|3.99|6066|2010|
+16094|Lois McMaster Bujold|None|61898|Beguilement (The Sharing Knife, #1)|2011|3.70|6027|2011|
+16094|Lois McMaster Bujold|None|76811|Borders of Infinity (Vorkosigan Saga, #5.3)|1999|4.21|5262|1999|
+16094|Lois McMaster Bujold|None|990093|Ethan of Athos (Vorkosigan Saga, #3)|1986|3.67|5898|1986|
+16094|Lois McMaster Bujold|None|12998057|Captain Vorpatril's Alliance (Vorkosigan Saga, #15)|2012|4.16|4607|2012|
+16094|Lois McMaster Bujold|None|61887|The Hallowed Hunt (Chalion, #3)|2006|3.76|4579|2006|
+16094|Lois McMaster Bujold|None|61881|Legacy (The Sharing Knife, #2)|2007|3.73|4306|2007|
+16094|Lois McMaster Bujold|None|61916|Young Miles (Vorkosigan Omnibus, #2)|None|4.34|3477|None|
+16094|Lois McMaster Bujold|None|2112904|Passage (The Sharing Knife, #3)|None|3.85|3591|None|
+16094|Lois McMaster Bujold|None|2684541|The Mountains Of Mourning|None|4.27|3016|None|
+16094|Lois McMaster Bujold|None|3423435|Horizon (The Sharing Knife, #4)|None|3.93|3189|None|
+16094|Lois McMaster Bujold|None|3746202|Winterfair Gifts|2008|4.10|2850|2008|
+16094|Lois McMaster Bujold|None|76813|Miles Errant (Vorkosigan Omnibus, #4)|2002|4.41|2489|2002|
+16094|Lois McMaster Bujold|None|61902|Miles, Mystery, and Mayhem (Vorkosigan Omnibus, #3)|2001|4.31|2233|2001|
+16094|Lois McMaster Bujold|None|1797901|Miles in Love (Vorkosigan Omnibus, #6)|2008|4.45|1858|2008|
+6863630|Larry Niven, Jerry Pournelle|None|20257566|Il giorno dell'invasione|1991|3.50|2|1991|
+3441|Terry Goodkind|None|43889|Wizard's First Rule (Sword of Truth, #1)|2003|4.11|120005|2003|
+3441|Terry Goodkind|None|234184|Stone of Tears (Sword of Truth, #2)|1995|4.09|62238|1995|
+3441|Terry Goodkind|None|43892|Blood of the Fold (Sword of Truth, #3)|1997|3.97|43341|1997|
+3441|Terry Goodkind|None|253058|Temple of the Winds (Sword of Truth, #4)|2007|4.00|40822|2007|
+3441|Terry Goodkind|None|121127|Faith of the Fallen (Sword of Truth, #6)|2001|4.12|36022|2001|
+3441|Terry Goodkind|None|761732|Soul of the Fire (Sword of Truth, #5)|2000|3.84|35469|2000|
+3441|Terry Goodkind|None|5038|The Pillars of Creation (Sword of Truth, #7)|2002|3.64|32007|2002|
+3441|Terry Goodkind|None|43893|Naked Empire (Sword of Truth, #8)|2004|3.79|29049|2004|
+3441|Terry Goodkind|None|43887|Chainfire (Sword of Truth, #9)|2005|3.94|27154|2005|
+3441|Terry Goodkind|None|604803|Confessor (Sword of Truth, #11)|2007|4.06|25501|2007|
+3441|Terry Goodkind|None|43884|Phantom (Sword of Truth, #10)|None|3.99|25591|None|
+3441|Terry Goodkind|None|43886|Debt of Bones (Sword of Truth, #0.5 Prequel)|2004|3.81|16479|2004|
+3441|Terry Goodkind|None|8598554|The Omen Machine (Richard and Kahlan, #1; Sword of Truth, #12)|2011|3.64|8910|2011|
+3441|Terry Goodkind|None|6311614|The Law of Nines|2009|3.59|7119|2009|
+3441|Terry Goodkind|None|15707526|The First Confessor (The Legend of Magda Searus, #1)|2012|4.25|4602|2012|
+3441|Terry Goodkind|None|43885|The Sword of Truth Boxed Set II: Temple of the Winds; Soul of the Fire; Faith of the Fallen (Sword of Truth, #4-6)|2002|4.14|3466|2002|
+3441|Terry Goodkind|None|17317908|The Third Kingdom (Richard and Kahlan, #2; Sword of Truth, #13)|2013|3.85|2707|2013|
+3441|Terry Goodkind|None|43888|The Sword of Truth, Boxed Set I: Wizard's First Rule, Blood of the Fold, Stone of Tears (Sword of Truth, #1-3)|1998|4.27|2235|1998|
+3441|Terry Goodkind|None|5036|The Sword of Truth, Boxed Set III: The Pillars of Creation, Naked Empire, Chainfire (Sword Of Truth, #7-9)|2006|4.18|1215|2006|
+3441|Terry Goodkind|None|43902|The Sword of Truth Gift Set (Sword of Truth, #1-5)|None|4.19|1111|None|
+3441|Terry Goodkind|None|6552953|El Libro de las Sombras Contadas (La Espada de la Verdad, 1)|2001|3.70|506|2001|
+3441|Terry Goodkind|None|6576636|Las Cajas del Destino (La Espada de la Verdad, 2)|2001|4.19|104|2001|
+3441|Terry Goodkind|None|7671514|La Piedra de las Lágrimas (La Espada de la Verdad, 3)|2002|4.31|75|2002|
+3441|Terry Goodkind|None|3712958|La Amenaza del Custodio (La Espada de la Verdad, 4)|2002|4.33|72|2002|
+3441|Terry Goodkind|None|7671512|El Caminante de los Sueños (La Espada de la Verdad, 6)|2009|4.00|70|2009|
+3441|Terry Goodkind|None|7671511|La Sangre de la Virtud (La Espada de la Verdad, 5)|2009|3.91|69|2009|
+3441|Terry Goodkind|None|121145|Die Nächte des roten Mondes (Das Schwert der Wahrheit, #7)|None|4.02|56|None|
+3441|Terry Goodkind|None|121148|El Gemelo de la Montaña (La Espada de la Verdad, 10)|2005|4.07|44|2005|
+3441|Terry Goodkind|None|43901|Die Burg der Zauberer (Das Schwert der Wahrheit, #9)|None|3.82|45|None|
+3441|Terry Goodkind|None|1452614|Der Palast des Kaisers (Das Schwert der Wahrheit, #12)|None|4.25|40|None|
+4178|Cormac McCarthy|1933/07/20|6288|The Road|None|3.94|364387|None|
+4178|Cormac McCarthy|1933/07/20|12497|No Country for Old Men|None|4.09|71227|None|
+4178|Cormac McCarthy|1933/07/20|394535|Blood Meridian, or the Evening Redness in the West|1992|4.21|46431|1992|
+4178|Cormac McCarthy|1933/07/20|469571|All the Pretty Horses (The Border Trilogy, #1)|1993|3.93|46719|1993|
+4178|Cormac McCarthy|1933/07/20|365990|The Crossing (The Border Trilogy, #2)|1994|4.08|15688|1994|
+4178|Cormac McCarthy|1933/07/20|293625|Child of God|1993|3.88|11900|1993|
+4178|Cormac McCarthy|1933/07/20|40470|Cities of the Plain (The Border Trilogy, #3)|None|4.03|10145|None|
+4178|Cormac McCarthy|1933/07/20|394469|Suttree|1992|4.19|8731|1992|
+4178|Cormac McCarthy|1933/07/20|40471|Outer Dark|2007|3.88|6754|2007|
+4178|Cormac McCarthy|1933/07/20|6163|The Border Trilogy: All the Pretty Horses, The Crossing, Cities of the Plain|1999|4.42|3278|1999|
+4178|Cormac McCarthy|1933/07/20|12496|The Sunset Limited|None|3.94|3400|None|
+4178|Cormac McCarthy|1933/07/20|46506|The Orchard Keeper|2007|3.58|3631|2007|
+4178|Cormac McCarthy|1933/07/20|383602|The Stonemason: A Play in Five Acts|None|3.75|500|None|
+4178|Cormac McCarthy|1933/07/20|18400189|The Counselor: A Screenplay|2013|3.32|449|2013|
+4178|Cormac McCarthy|1933/07/20|46492|The Gardener's Son: a screenplay|1996|3.56|176|1996|
+4178|Cormac McCarthy|1933/07/20|7974599|All The Pretty Horses By Cormac Mc Carthy: Teacher Guide|2001|4.02|41|2001|
+4178|Cormac McCarthy|1933/07/20|16092291|The Orchard Keeper; Suttree; Blood Meridian|1993|4.69|16|1993|
+4178|Cormac McCarthy|1933/07/20|6164|Cliff Notes on: All the Pretty Horses|None|3.67|12|None|
+4178|Cormac McCarthy|1933/07/20|20431593|Short Fiction|None|3.00|5|None|
+4178|Cormac McCarthy|1933/07/20|22086392|Blood Meridian, Or, The Evening Redness In The West|None|4.33|3|None|
+4178|Cormac McCarthy|1933/07/20|3191073|James Drake|2008|4.00|3|2008|
+4178|Cormac McCarthy|1933/07/20|21408290|Wake for Susan|1959|5.00|2|1959|
+4178|Cormac McCarthy|1933/07/20|22070545|Blood Meridian (Modern Library) Publisher: Modern Library|None|4.00|2|None|
+4178|Cormac McCarthy|1933/07/20|18130976|Scenes of the Crime|2013|2.33|3|2013|
+4178|Cormac McCarthy|1933/07/20|22318816|by Cormac McCarthy Blood Meridian|None|0.0|0|None|
+4178|Cormac McCarthy|1933/07/20|22276621|La carretera (Vintage Espanol)|None|4.00|1|None|
+4178|Cormac McCarthy|1933/07/20|21408214|A Drowning Incident|1960|3.00|1|1960|
+4178|Cormac McCarthy|1933/07/20|22246692|Child of God|None|0.0|0|None|
+4178|Cormac McCarthy|1933/07/20|22304024|The Road (Oprah's Book Club)|None|0.0|0|None|
+4178|Cormac McCarthy|1933/07/20|22140601|The Road|2010|0.0|0|2010|
+8842|Susanna Clarke|1959/11/01|14201|Jonathan Strange & Mr Norrell|2006|3.74|95427|2006|
+8842|Susanna Clarke|1959/11/01|15161|The Ladies of Grace Adieu and Other Stories|None|3.81|8843|None|
+8842|Susanna Clarke|1959/11/01|92377|The Sandman: Book of Dreams|2002|4.15|4005|2002|
+8842|Susanna Clarke|1959/11/01|81038|Black Heart, Ivory Bones|None|4.10|1148|None|
+8842|Susanna Clarke|1959/11/01|7221800|Jonathan Strange & Mr. Norrell|2009|3.91|974|2009|
+8842|Susanna Clarke|1959/11/01|739891|Black Swan, White Raven|1997|3.96|757|1997|
+8842|Susanna Clarke|1959/11/01|10393851|Happily Ever After|2011|3.76|454|2011|
+8842|Susanna Clarke|1959/11/01|7105465|Jonathan Strange & Mr. Norrell|2009|3.84|293|2009|
+8842|Susanna Clarke|1959/11/01|13634896|El camino de la magia|2012|3.77|271|2012|
+8842|Susanna Clarke|1959/11/01|492979|The Year's Best Fantasy and Horror: Thirteenth Annual Collection|2000|3.99|220|2000|
+8842|Susanna Clarke|1959/11/01|7850063|The Secret History of Fantasy|2010|3.82|217|2010|
+8842|Susanna Clarke|1959/11/01|293112|The Year's Best Fantasy and Horror: Tenth Annual Collection|1997|4.01|193|1997|
+8842|Susanna Clarke|1959/11/01|293143|The Year's Best Fantasy and Horror: Twelfth Annual Collection|1999|3.96|160|1999|
+8842|Susanna Clarke|1959/11/01|293086|The Year's Best Fantasy and Horror: Fifteenth Annual Collection|2002|3.95|159|2002|
+8842|Susanna Clarke|1959/11/01|1116475|The Year's Best Fantasy and Horror: Fourteenth Annual Collection|2001|3.93|147|2001|
+8842|Susanna Clarke|1959/11/01|7221833|Jonathan Strange & Mr. Norrell|2009|4.01|142|2009|
+8842|Susanna Clarke|1959/11/01|7455727|Tails of Wonder and Imagination|2010|3.45|125|2010|
+8842|Susanna Clarke|1959/11/01|7687394|Cat Facts|None|3.29|14|None|
+8842|Susanna Clarke|1959/11/01|1041661|Stardust: Lluvia de Estrellas|2000|4.18|11|2000|
+8842|Susanna Clarke|1959/11/01|15913607|The Magazine of Fantasy and Science Fiction, December 2006|2006|3.00|1|2006|
+8842|Susanna Clarke|1959/11/01|22313673|Jonathan Strange and Mr Norrell|2015|0.0|0|2015|
+8726|Richard Matheson|1926/02/20|547094|I Am Legend and Other Stories|1997|3.95|72537|1997|
+8726|Richard Matheson|1926/02/20|14064|I Am Legend|1999|4.06|23990|1999|
+8726|Richard Matheson|1926/02/20|33547|Hell House|2004|3.81|12860|2004|
+8726|Richard Matheson|1926/02/20|33555|What Dreams May Come|None|3.94|5681|None|
+8726|Richard Matheson|1926/02/20|33553|A Stir of Echoes|2004|3.87|5527|2004|
+8726|Richard Matheson|1926/02/20|33544|Nightmare At 20,000 Feet: Horror Stories By Richard Matheson|2002|4.10|3763|2002|
+8726|Richard Matheson|1926/02/20|581126|Somewhere in Time|1999|3.92|3857|1999|
+8726|Richard Matheson|1926/02/20|33549|The Shrinking Man|2002|3.81|2460|2002|
+8726|Richard Matheson|1926/02/20|33554|Duel: Terror Stories|2003|4.03|933|2003|
+8726|Richard Matheson|1926/02/20|754250|Button, Button: Uncanny Stories|2008|3.63|1035|2008|
+8726|Richard Matheson|1926/02/20|754253|The Incredible Shrinking Man|2001|3.79|824|2001|
+8726|Richard Matheson|1926/02/20|3547311|Road Rage: Two Novellas|2009|3.95|715|2009|
+8726|Richard Matheson|1926/02/20|6376283|The Box: Uncanny Stories|None|3.31|627|None|
+8726|Richard Matheson|1926/02/20|219545|Hunted Past Reason|2003|3.08|579|2003|
+8726|Richard Matheson|1926/02/20|9396726|Other Kingdoms|2011|2.75|509|2011|
+8726|Richard Matheson|1926/02/20|882029|The Twilight Zone: The Original Stories|1985|4.17|333|1985|
+8726|Richard Matheson|1926/02/20|33546|Earthbound|2005|3.19|360|2005|
+8726|Richard Matheson|1926/02/20|33551|7 Steps to Midnight|2003|3.46|305|2003|
+8726|Richard Matheson|1926/02/20|219539|Collected Stories, Vol. 1|2003|4.39|240|2003|
+8726|Richard Matheson|1926/02/20|219544|Now You See It . . .|2003|3.41|298|2003|
+8726|Richard Matheson|1926/02/20|11339967|Steel: And Other Stories|2011|3.57|268|2011|
+8726|Richard Matheson|1926/02/20|2217729|I Am Legend / Hell House|None|4.17|189|None|
+8726|Richard Matheson|1926/02/20|376539|The Beardless Warriors: A Novel of World War II|2001|4.04|175|2001|
+8726|Richard Matheson|1926/02/20|219540|Journal of the Gun Years|1992|3.84|167|1992|
+8726|Richard Matheson|1926/02/20|505396|Shadow on the Sun|1994|3.38|159|1994|
+8726|Richard Matheson|1926/02/20|6066571|Shock 1|None|3.96|127|None|
+8726|Richard Matheson|1926/02/20|33543|Collected Stories, Vol. 2|2005|4.36|100|2005|
+8726|Richard Matheson|1926/02/20|2884058|Third from the Sun|1955|3.99|94|1955|
+8726|Richard Matheson|1926/02/20|219550|Shock II|1979|3.89|92|1979|
+8726|Richard Matheson|1926/02/20|33545|Collected Stories, Vol. 3|2005|4.27|75|2005|
+8588|Raymond E. Feist|1945/01/01|13810|Magician: Master (The Riftwar Saga, #2)|1993|4.23|41211|1993|
+8588|Raymond E. Feist|1945/01/01|13812|Magician: Apprentice (The Riftwar Saga, #1)|1994|4.18|36791|1994|
+8588|Raymond E. Feist|1945/01/01|13813|A Darkness At Sethanon (The Riftwar Saga, #4)|1987|4.14|32646|1987|
+8588|Raymond E. Feist|1945/01/01|43916|Magician (The Riftwar Saga, #1-2)|2009|4.31|30915|2009|
+8588|Raymond E. Feist|1945/01/01|149302|Silverthorn (The Riftwar Saga, #3)|1986|4.00|31477|1986|
+8588|Raymond E. Feist|1945/01/01|589979|Daughter of the Empire (The Empire Trilogy, #1)|None|4.19|15307|None|
+8588|Raymond E. Feist|1945/01/01|13815|Servant of the Empire (The Empire Trilogy, #2)|1990|4.23|13157|1990|
+8588|Raymond E. Feist|1945/01/01|43908|Shadow of a Dark Queen (The Serpentwar Saga, #1)|1995|3.95|13650|1995|
+8588|Raymond E. Feist|1945/01/01|43917|Rise of a Merchant Prince (The Serpentwar Saga, #2)|1996|3.96|13571|1996|
+8588|Raymond E. Feist|1945/01/01|13881|Rage of a Demon King (The Serpentwar Saga, #3)|None|3.95|12740|None|
+8588|Raymond E. Feist|1945/01/01|317504|Mistress of the Empire (The Empire Trilogy, #3)|1993|4.23|11744|1993|
+8588|Raymond E. Feist|1945/01/01|169959|The King's Buccaneer (Krondor's Sons, #2)|1994|3.93|11786|1994|
+8588|Raymond E. Feist|1945/01/01|43915|Magician: Apprentice, Volume 1|None|4.43|10390|None|
+8588|Raymond E. Feist|1945/01/01|13817|Shards of a Broken Crown (The Serpentwar Saga, #4)|1999|3.93|10725|1999|
+8588|Raymond E. Feist|1945/01/01|13878|Prince of the Blood (Krondor's Sons, #1)|2007|3.83|10281|2007|
+8588|Raymond E. Feist|1945/01/01|13811|Talon of the Silver Hawk (Conclave of Shadows, #1)|2004|3.94|8785|2004|
+8588|Raymond E. Feist|1945/01/01|13809|Exile's Return (Conclave of Shadows, #3)|2006|3.95|7318|2006|
+8588|Raymond E. Feist|1945/01/01|153175|King of Foxes (Conclave of Shadows, #2)|2005|3.89|7240|2005|
+8588|Raymond E. Feist|1945/01/01|92918|Krondor: The Betrayal (The Riftwar Legacy, #1)|2001|3.71|7131|2001|
+8588|Raymond E. Feist|1945/01/01|13818|Krondor: The Assassins (The Riftwar Legacy, #2)|2000|3.76|6345|2000|
+8588|Raymond E. Feist|1945/01/01|2041545|The Riftwar Saga (The Riftwar Saga, #1-4)|1988|4.28|5417|1988|
+8588|Raymond E. Feist|1945/01/01|13807|Flight of the Nighthawks (The Darkwar Saga, #1)|2006|3.88|5904|2006|
+8588|Raymond E. Feist|1945/01/01|43919|Faerie Tale|1989|3.85|5752|1989|
+8588|Raymond E. Feist|1945/01/01|13814|Into a Dark Realm (The Darkwar Saga, #2)|2007|3.92|5445|2007|
+8588|Raymond E. Feist|1945/01/01|177191|Krondor: Tear of the Gods (The Riftwar Legacy, #3)|2002|3.75|5629|2002|
+8588|Raymond E. Feist|1945/01/01|1196299|Wrath of a Mad God (The Darkwar Saga, #3)|2008|3.96|4982|2008|
+8588|Raymond E. Feist|1945/01/01|8664327|A Kingdom Besieged (The Chaoswar Saga #1)|2011|3.92|4526|2011|
+8588|Raymond E. Feist|1945/01/01|4003436|Rides a Dread Legion (The Demonwar Saga, #1)|None|3.86|3941|None|
+8588|Raymond E. Feist|1945/01/01|13808|Honored Enemy (Legends of the Riftwar, #1)|2006|3.83|3543|2006|
+8588|Raymond E. Feist|1945/01/01|13816|Jimmy the Hand (Legends of the Riftwar, #3)|2003|3.87|3502|2003|
+9629|Terry Brooks|1944/01/08|189783|The Elfstones Of Shannara  (The Original Shannara Trilogy, #2)|None|3.93|38517|None|
+9629|Terry Brooks|1944/01/08|15575|The Sword of Shannara (The Original Shannara Trilogy #1)|1999|3.74|37923|1999|
+9629|Terry Brooks|1944/01/08|34919|The Talismans Of Shannara (Heritage of Shannara #4)|1999|3.98|25121|1999|
+9629|Terry Brooks|1944/01/08|15567|The Wishsong of Shannara (The Original Shannara Trilogy #3)|1999|3.92|23822|1999|
+9629|Terry Brooks|1944/01/08|15547|Magic Kingdom For Sale/Sold (Magic Kingdom of Landover, #1)|None|3.81|19973|None|
+9629|Terry Brooks|1944/01/08|92855|First King of Shannara (Shannara, #0)|1997|3.89|18926|1997|
+9629|Terry Brooks|1944/01/08|15568|The Druid of Shannara (Heritage of Shannara #2)|None|3.97|17915|None|
+9629|Terry Brooks|1944/01/08|15566|The Elf Queen Of Shannara (Heritage of Shannara #3)|None|3.97|16253|None|
+9629|Terry Brooks|1944/01/08|34988|The Scions of Shannara (Heritage of Shannara, #1)|2006|3.91|15507|2006|
+9629|Terry Brooks|1944/01/08|187124|Running with the Demon (Word & Void, #1)|1999|3.93|13205|1999|
+9629|Terry Brooks|1944/01/08|92845|The Black Unicorn (Magic Kingdom of Landover, #2)|1999|3.71|11120|1999|
+9629|Terry Brooks|1944/01/08|478894|The Sword of Shannara Trilogy (Shannara, #1-3)|2002|3.93|10397|2002|
+9629|Terry Brooks|1944/01/08|15560|Ilse Witch (Voyage of the Jerle Shannara, #1)|2001|3.90|10151|2001|
+9629|Terry Brooks|1944/01/08|15559|Morgawr (Voyage of the Jerle Shannara, #3)|2003|3.92|9462|2003|
+9629|Terry Brooks|1944/01/08|15561|Wizard at Large (Magic Kingdom of Landover, #3)|None|3.75|9656|None|
+9629|Terry Brooks|1944/01/08|92846|Antrax (Voyage of the Jerle Shannara, #2)|2002|3.89|9119|2002|
+9629|Terry Brooks|1944/01/08|15549|Armageddon's Children (Genesis of Shannara, #1)|None|4.07|8447|None|
+9629|Terry Brooks|1944/01/08|420496|A Knight of the Word (Word & Void, #2)|1999|4.01|7906|1999|
+9629|Terry Brooks|1944/01/08|15557|Jarka Ruus (High Druid of Shannara, #1)|None|3.92|7995|None|
+9629|Terry Brooks|1944/01/08|62233|The Elves of Cintra (Genesis of Shannara, #2)|2007|4.07|7431|2007|
+9629|Terry Brooks|1944/01/08|34942|The Tangle Box (Magic Kingdom of Landover, #4)|None|3.77|7496|None|
+9629|Terry Brooks|1944/01/08|15558|Angel Fire East (Word & Void, #3)|1999|4.06|6831|1999|
+9629|Terry Brooks|1944/01/08|34941|Star Wars, Episode I: The Phantom Menace (Star Wars, #1)|2000|3.46|7991|2000|
+9629|Terry Brooks|1944/01/08|15552|Tanequil (High Druid of Shannara, #2)|None|3.94|6906|None|
+9629|Terry Brooks|1944/01/08|2675261|The Gypsy Morph (Genesis of Shannara, #3)|None|4.11|6567|None|
+9629|Terry Brooks|1944/01/08|15550|Straken (High Druid of Shannara, #3)|2006|3.98|6457|2006|
+9629|Terry Brooks|1944/01/08|15564|Witches' Brew (Magic Kingdom of Landover, #5)|None|3.81|6025|None|
+9629|Terry Brooks|1944/01/08|7302794|Bearers of the Black Staff (Legends of Shannara, #1)|2010|3.97|4702|2010|
+9629|Terry Brooks|1944/01/08|987951|The Sword of the Shannara and The Elfstones of Shannara|2002|4.09|3564|2002|
+9629|Terry Brooks|1944/01/08|10199908|The Measure of the Magic (Legends of Shannara, #2)|2011|3.94|3442|2011|
+7518750|R.E Howard|None|19309053|KULL, le roi barbare|None|0.0|0|None|
+25307|Robin Hobb|None|45107|Assassin's Apprentice (Farseer Trilogy, #1)|1996|4.10|75521|1996|
+25307|Robin Hobb|None|68487|Royal Assassin (Farseer Trilogy, #2)|1997|4.18|55020|1997|
+25307|Robin Hobb|None|45112|Assassin's Quest (Farseer Trilogy, #3)|1998|4.16|38778|1998|
+25307|Robin Hobb|None|68488|Fool's Errand (Tawny Man, #1)|2002|4.22|27817|2002|
+25307|Robin Hobb|None|45108|Fool's Fate (Tawny Man, #3)|None|4.31|25218|None|
+25307|Robin Hobb|None|45109|Golden Fool (Tawny Man, #2)|2003|4.27|24559|2003|
+25307|Robin Hobb|None|45100|Ship of Magic (Liveship Traders, #1)|1999|4.07|22283|1999|
+25307|Robin Hobb|None|45102|Ship of Destiny (Liveship Traders, #3)|2001|4.15|18146|2001|
+25307|Robin Hobb|None|45101|The Mad Ship (Liveship Traders, #2)|2008|4.14|17881|2008|
+25307|Robin Hobb|None|4703450|The Dragon Keeper (Rain Wild Chronicles, #1)|2009|3.88|11101|2009|
+25307|Robin Hobb|None|45110|Shaman's Crossing (Soldier Son, #1)|2006|3.37|10963|2006|
+25307|Robin Hobb|None|7011403|Dragon Haven (Rain Wild Chronicles, #2)|2010|3.99|8932|2010|
+25307|Robin Hobb|None|10762697|Robin Hobb Collection: Assassin's Apprentice, Royal Assassin, Assassin's Quest|None|4.25|6822|None|
+25307|Robin Hobb|None|45106|Forest Mage (Soldier Son, #2)|2006|3.30|8432|2006|
+25307|Robin Hobb|None|11801463|City of Dragons (Rain Wild Chronicles, #3)|2012|3.96|6561|2012|
+25307|Robin Hobb|None|1593623|Renegade's Magic (Soldier Son, #3)|2008|3.41|7131|2008|
+25307|Robin Hobb|None|13109291|Blood of Dragons (Rain Wild Chronicles, #4)|2013|4.03|4864|2013|
+25307|Robin Hobb|None|5533041|Assassin's Apprentice / Royal Assassin (Farseer Trilogy, #1-2)|None|4.32|3244|None|
+25307|Robin Hobb|None|8739264|The Inheritance|2011|3.92|1230|2011|
+25307|Robin Hobb|None|16244663|The Willful Princess and the Piebald Prince|2013|3.87|751|2013|
+25307|Robin Hobb|None|1847010|L'assassin du roi (L'assassin royal, #2)|2001|4.21|519|2001|
+25307|Robin Hobb|None|6977328|A Corte dos Traidores (A Saga do Assassino, #3)|2009|4.04|349|2009|
+25307|Robin Hobb|None|2056300|L'apprenti assassin (L'assassin royal, #1)|2005|4.32|321|2005|
+25307|Robin Hobb|None|515801|Le poison de la vengeance (L'assassin royal, #4)|2002|4.24|270|2002|
+25307|Robin Hobb|None|219253|La voie magique (L'assassin royal, #5)|2002|4.29|260|2002|
+25307|Robin Hobb|None|515792|La reine solitaire (L'assassin royal, #6)|2003|4.36|250|2003|
+25307|Robin Hobb|None|219257|La nef du crépuscule (L'assassin royal, #3)|2002|4.31|240|2002|
+25307|Robin Hobb|None|18658063|Fool's Assassin (The Fitz and The Fool Trilogy, #1)|2014|4.28|217|2014|
+25307|Robin Hobb|None|1704012|Le prophète blanc (L'assassin royal, #7)|2004|4.32|206|2004|
+25307|Robin Hobb|None|1134821|Serments et deuils (L'assassin royal, #10)|2006|4.34|185|2006|
+498072|Audrey Niffenegger|None|18619684|The Time Traveler's Wife|2013|3.92|843751|2013|
+498072|Audrey Niffenegger|None|10846426|Sense and Sensibility|2011|4.04|541430|2011|
+498072|Audrey Niffenegger|None|9587907|Persuasion|2011|4.12|249589|2011|
+498072|Audrey Niffenegger|None|823764|Jonathan Strange & Mr Norrell|2007|3.74|95427|2007|
+498072|Audrey Niffenegger|None|6202342|Her Fearful Symmetry|2009|3.21|62404|2009|
+498072|Audrey Niffenegger|None|19219731|The Moonstone|None|3.89|31082|None|
+498072|Audrey Niffenegger|None|6881206|The Night Bookmobile|2010|3.48|3314|2010|
+498072|Audrey Niffenegger|None|15842705|Raven Girl|2013|3.26|2146|2013|
+498072|Audrey Niffenegger|None|135642|The Three Incestuous Sisters|2005|3.28|2066|2005|
+498072|Audrey Niffenegger|None|13329252|Shadow Show: All-New Stories in Celebration of Ray Bradbury|2012|3.97|602|2012|
+498072|Audrey Niffenegger|None|15136|The Adventuress|2006|3.27|680|2006|
+498072|Audrey Niffenegger|None|81022|Love|1997|3.70|486|1997|
+498072|Audrey Niffenegger|None|20082618|Daybook: The Journal of an Artist|None|4.06|170|None|
+498072|Audrey Niffenegger|None|13547329|Magic: An Anthology of the Esoteric and Arcane|2012|3.62|96|2012|
+498072|Audrey Niffenegger|None|44623|The Book as Art: Artists' Books from the National Museum of Women in the Arts|2006|4.37|79|2006|
+498072|Audrey Niffenegger|None|16142170|Awake in the Dream World: The Art of Audrey Niffenegger|2013|3.61|51|2013|
+498072|Audrey Niffenegger|None|5907818|Selected Shorts: Readers & Writers|2008|3.84|19|2008|
+498072|Audrey Niffenegger|None|4420868|Bookclub-In-A-Box Discusses The Time Traveler's Wife|2006|3.48|21|2006|
+498072|Audrey Niffenegger|None|12171118|The Chinchilla Girl in Exile|2014|3.40|20|2014|
+498072|Audrey Niffenegger|None|22086358|The Time Traveler's Wife [Paperback]|None|4.33|6|None|
+498072|Audrey Niffenegger|None|18952467|Magic: An Anthology of the Esoteric and Arcane|None|2.00|1|None|
+498072|Audrey Niffenegger|None|17571264|Daybook, Turn, Prospect: The Journey of an Artist|2013|0.0|0|2013|
+1023510|R.A. Salvatore|1959/01/20|50027|Homeland (Forgotten Realms: The Dark Elf Trilogy, #1; Legend of Drizzt, #1)|None|4.26|28228|None|
+1023510|R.A. Salvatore|1959/01/20|66678|Exile (Forgotten Realms: The Dark Elf Trilogy, #2; Legend of Drizzt, #2)|2006|4.23|24394|2006|
+1023510|R.A. Salvatore|1959/01/20|66695|Sojourn (Forgotten Realms: The Dark Elf Trilogy, #3; Legend of Drizzt, #3)|1999|4.22|23237|1999|
+1023510|R.A. Salvatore|1959/01/20|66693|The Crystal Shard (Forgotten Realms: Icewind Dale, #1; Legend of Drizzt, #4)|2007|4.11|22020|2007|
+1023510|R.A. Salvatore|1959/01/20|68396|The Halfling's Gem (Forgotten Realms: Icewind Dale, #3; Legend of Drizzt, #6)|2005|4.12|18972|2005|
+1023510|R.A. Salvatore|1959/01/20|66692|Streams of Silver (Forgotten Realms: Icewind Dale, #2; Legend of Drizzt, #5)|2007|4.11|18184|2007|
+1023510|R.A. Salvatore|1959/01/20|68418|The Dark Elf Trilogy Collector's Edition (Forgotten Realms: Dark Elf Trilogy, #1-3; Legend of Drizzt, #1-3)|2000|4.30|14911|2000|
+1023510|R.A. Salvatore|1959/01/20|227454|The Legacy (Forgotten Realms: Legacy of the Drow, #1; Legend of Drizzt, #7)|None|4.17|13785|None|
+1023510|R.A. Salvatore|1959/01/20|239102|Starless Night (Forgotten Realms: Legacy of the Drow, #2; Legend of Drizzt, #8)|1994|4.09|13134|1994|
+1023510|R.A. Salvatore|1959/01/20|239103|Siege of Darkness (Forgotten Realms: Legacy of the Drow, #3; Legend of Drizzt, #9)|1995|4.13|12695|1995|
+1023510|R.A. Salvatore|1959/01/20|111023|Passage to Dawn (Forgotten Realms: Legacy of the Drow, #4; Legend of Drizzt, #10)|1997|4.04|10017|1997|
+1023510|R.A. Salvatore|1959/01/20|66683|The Thousand Orcs (Forgotten Realms: Hunter's Blades, #1; Legend of Drizzt, #14)|None|4.06|9912|None|
+1023510|R.A. Salvatore|1959/01/20|239105|The Silent Blade (Forgotten Realms: Paths of Darkness, #1; Legend of Drizzt, #11)|None|4.08|9747|None|
+1023510|R.A. Salvatore|1959/01/20|239109|The Lone Drow (Forgotten Realms: Hunter's Blades, #2; Legend of Drizzt, #15)|None|4.12|9009|None|
+1023510|R.A. Salvatore|1959/01/20|62485|The Icewind Dale Trilogy Collector's Edition (Forgotten Realms: Icewind Dale, #1-3; Legend of Drizzt, #4-6)|None|4.24|8673|None|
+1023510|R.A. Salvatore|1959/01/20|66676|The Two Swords (Forgotten Realms: Hunter's Blades, #3; Legend of Drizzt, #16)|None|4.15|8324|None|
+1023510|R.A. Salvatore|1959/01/20|239107|Sea of Swords (Forgotten Realms: Paths of Darkness, #4; Legend of Drizzt, #13)|2002|4.03|8390|2002|
+1023510|R.A. Salvatore|1959/01/20|171471|The Spine of the World (Forgotten Realms: Paths of Darkness, #2; Legend of Drizzt, #12)|2000|3.86|8687|2000|
+1023510|R.A. Salvatore|1959/01/20|192214|Vector Prime (Star Wars: The New Jedi Order, #1)|2004|3.73|8281|2004|
+1023510|R.A. Salvatore|1959/01/20|62479|Servant of the Shard (Forgotten Realms: Paths of Darkness, #3; The Sellswords, #1)|2005|4.11|7148|2005|
+1023510|R.A. Salvatore|1959/01/20|280125|The Orc King (Forgotten Realms: Transitions, #1; Legend of Drizzt, #17)|None|4.09|6412|None|
+1023510|R.A. Salvatore|1959/01/20|13854|Promise of the Witch King (Forgotten Realms: The Sellswords, #2)|2006|4.14|4981|2006|
+1023510|R.A. Salvatore|1959/01/20|291551|Canticle (Forgotten Realms: The Cleric Quintet, #1)|2000|3.99|5102|2000|
+1023510|R.A. Salvatore|1959/01/20|2725419|The Pirate King (Forgotten Realms: Transitions, #2; Legend of Drizzt, #18)|None|4.00|4781|None|
+1023510|R.A. Salvatore|1959/01/20|66675|The Cleric Quintet Collector's Edition (Forgotten Realms: The Cleric Quintet, #1-5)|2002|4.25|4213|2002|
+1023510|R.A. Salvatore|1959/01/20|6291|Road of the Patriarch (Forgotten Realms: The Sellswords, #3)|2006|4.16|4114|2006|
+1023510|R.A. Salvatore|1959/01/20|6106714|The Ghost King (Forgotten Realms: Transitions, #3; Legend of Drizzt, #19)|2009|4.14|4080|2009|
+1023510|R.A. Salvatore|1959/01/20|274397|Night Masks (Forgotten Realms: The Cleric Quintet, #3)|2000|4.03|4180|2000|
+1023510|R.A. Salvatore|1959/01/20|7879891|Gauntlgrym (Forgotten Realms: Neverwinter, #1; Legend of Drizzt, #20)|2010|4.16|4034|2010|
+1023510|R.A. Salvatore|1959/01/20|529612|In Sylvan Shadows (Forgotten Realms: The Cleric Quintet, #2)|2000|4.00|4193|2000|
+4763|John Scalzi|None|51964|Old Man's War (Old Man's War, #1)|2007|4.21|50406|2007|
+4763|John Scalzi|None|13055592|Redshirts|2012|3.81|24899|2012|
+4763|John Scalzi|None|239399|The Ghost Brigades (Old Man's War, #2)|None|4.06|21074|None|
+4763|John Scalzi|None|88071|The Last Colony (Old Man's War, #3)|2007|3.99|15343|2007|
+4763|John Scalzi|None|9647532|Fuzzy Nation|2011|4.04|9157|2011|
+4763|John Scalzi|None|2102600|Zoe's Tale (Old Man's War, #4)|2008|3.73|8608|2008|
+4763|John Scalzi|None|7081|The Android's Dream|2006|3.95|6141|2006|
+4763|John Scalzi|None|88072|Agent to the Stars|2005|3.90|5535|2005|
+4763|John Scalzi|None|15698479|The Human Division (Old Man's War, #5)|2013|4.05|4060|2013|
+4763|John Scalzi|None|16180352|The B-Team (The Human Division, #1)|2013|4.06|2432|2013|
+4763|John Scalzi|None|6470498|The God Engines|2009|3.52|2444|2009|
+4763|John Scalzi|None|61664|The Sagan Diary  (Old Man's War, #2.5)|None|3.20|2069|None|
+4763|John Scalzi|None|5196932|METAtropolis: The Dawn of Uncivilization|2009|3.59|1446|2009|
+4763|John Scalzi|None|16180355|We Only Need the Heads (The Human Division, #3)|2013|4.06|1237|2013|
+4763|John Scalzi|None|16180353|Walk the Plank (The Human Division, #2)|2013|3.78|1323|2013|
+4763|John Scalzi|None|16180357|Tales From the Clarke (The Human Division, #5)|2013|4.10|1097|2013|
+4763|John Scalzi|None|16180356|A Voice in the Wilderness (The Human Division, #4)|2013|3.93|1129|2013|
+4763|John Scalzi|None|16180358|The Back Channel (The Human Division, #6)|2013|4.09|1044|2013|
+4763|John Scalzi|None|16180354|The Dog King (The Human Division, #7)|2013|4.13|1025|2013|
+4763|John Scalzi|None|16180359|The Sound of Rebellion (The Human Division, #8)|2013|4.13|983|2013|
+4763|John Scalzi|None|16180362|A Problem of Proportion (The Human Division, #11)|2013|4.19|944|2013|
+4763|John Scalzi|None|16180360|The Observers (The Human Division, #9)|2013|4.11|947|2013|
+4763|John Scalzi|None|16180364|Earth Below, Sky Above (The Human Division, #13)|2013|4.25|897|2013|
+4763|John Scalzi|None|16180361|This Must Be the Place (The Human Division, #10)|2013|3.92|924|2013|
+4763|John Scalzi|None|16180363|The Gentle Art of Cracking Heads (The Human Division, #12)|2013|4.10|869|2013|
+4763|John Scalzi|None|8627906|After the Coup (Old Man's War, #4.5)|2008|3.95|751|2008|
+4763|John Scalzi|None|3852882|Your Hate Mail Will Be Graded|2008|3.77|569|2008|
+4763|John Scalzi|None|6139476|How I Proposed to My Wife: An Alien Sex Story|2006|3.85|552|2006|
+4763|John Scalzi|None|346685|Questions for a Soldier (Old Man's War, #1.5)|2005|3.70|500|2005|
+4763|John Scalzi|None|9668280|An Election|2010|3.67|399|2010|
+5153555|Source Wikipedia|None|12583816|The Hunger Games: List of Characters in the Hunger Games Trilogy, the Hunger Games Universe, Katniss Everdeen, Catching Fire, Mockingjay|None|4.41|268|None|
+5153555|Source Wikipedia|None|13039186|Twilight Saga - Films (Film Guide): Actors, Book vs. Movie, Breaking Dawn Films, Composers, Directors, Eclipse Film, Film Images, New Moon Film, Twili|None|4.04|210|None|
+5153555|Source Wikipedia|None|8882037|The Vampire Chronicles: The Queen of the Damned, Interview with the Vampire, the Vampire Lestat, Memnoch the Devil, the Tale of the Body Thief|None|4.29|153|None|
+5153555|Source Wikipedia|None|13063104|Twilight Saga - Twilight Saga: Books, Breaking Dawn, Eclipse, Events, Films, Locations, New Moon, Quotes, Twilight, Twilight Saga Characters, Breakin|None|4.16|133|None|
+5153555|Source Wikipedia|None|12989382|Camp Half-Blood - The Heroes of Olympus Characters: The Lost Hero Characters, the Son of Neptune Characters, Ella, Enceladus, Hazel Levesque, Lupa, Po|None|4.28|123|None|
+5153555|Source Wikipedia|None|12673086|Frankenstein: Mary Shelley, the Rocky Horror Picture Show, Personaggi Di Frankenstein, Mostri Della Universal, Mostro Di Frankenstei|None|3.89|122|None|
+5153555|Source Wikipedia|None|9261904|Twilight Series: The Twilight Saga, the Twilight Saga: New Moon, the Twilight Saga: Eclipse, Breaking Dawn, List of Twilight Cast Membe|None|4.11|101|None|
+5153555|Source Wikipedia|None|13092808|Harry Potter - The Tales of Beedle the Bard: Altheda, Altheda's Potion, Altheda's Wand, Amata, Amata's Lover, Antioch Peverell, Antioch Peverell's Fir|None|4.02|81|None|
+5153555|Source Wikipedia|None|9479132|Raymond E. Feist: Betrayal at Krondor, Midkemia, Tsurani, the Kingdom of the Isles, Kelewan, the Empire of Great Kesh, Conclave of Shado|None|4.43|47|None|
+5153555|Source Wikipedia|None|12988505|Camp Half-Blood - The Heroes of Olympus: Characters, Places, the Heroes of Olympus Books, the Heroes of Olympus Characters, the Heroes of Olympus Even|None|4.72|40|None|
+5153555|Source Wikipedia|None|13096649|Camp Half-Blood - The Son of Neptune Characters: Alcyoneus, Amazons, Ares, Argentium, Arion, Auguries, Aurum, Basilisk, Bobby, Dakota, Don the Faun, D|None|4.44|36|None|
+5153555|Source Wikipedia|None|12907011|Mondo Emerso: Cronache del Mondo Emerso, Le Guerre del Mondo Emerso, Le Leggende del Mondo Emerso, Oggetti del Mondo Emerso|None|4.07|29|None|
+5153555|Source Wikipedia|None|8893084|Collections of Fairy Tales: The Tales of Beedle the Bard, Grimm's Fairy Tales, Andrew Lang's Fairy Books, the Happy Prince and Other Tales|None|3.90|29|None|
+5153555|Source Wikipedia|None|12077570|Novels by Anne Rice (Book Guide): The Queen of the Damned, Interview with the Vampire, the Vampire Lestat, Memnoch the Devil|None|4.48|25|None|
+5153555|Source Wikipedia|None|13038465|Vampire Academy Series - Characters from Vampire Academy Series: Aaron, Abby Badica, Adrian Ivashkov, Alan, Alberta Petrov, Alexander Voda, Alexandra,|None|4.65|23|None|
+5153555|Source Wikipedia|None|13029400|Stephen King - Short Stories (Book Guide): 1408, 1922, a Good Marriage, a Very Tight Place, All That You Love Will Be Carried Away, Apt Pupil, Autopsy|None|3.67|24|None|
+5153555|Source Wikipedia|None|13245493|The 39 Clues - The Maze of Bones: Iron Solute, Benjamin Franklin, Clue Symbols, France, Lucian Clues, Lucian Serum, Master Serum, Paris, France, Serum|None|4.47|19|None|
+5153555|Source Wikipedia|None|12543203|The 39 Clues: List of the 39 Clues Characters, the 39 Clues Cards, the Maze of Bones, Into the Gauntlet, One False Note, the Emperor|None|4.25|20|None|
+5153555|Source Wikipedia|None|13087856|Hetalia Archives - Fanon: Fansites, Fan Videos, Pairings, Uniform Guide, Websites, Seven Colors of Hetalia, Gakuen Hetalia Uniform, Gloria Hetal|None|4.88|17|None|
+5153555|Source Wikipedia|None|13073565|The 39 Clues - Books (Book Guide): Additional Books, Agent Handbook, Alliances, Antagonists, a King's Ransom, Beyond the Grave, Books in Series One, C|None|4.53|17|None|
+5153555|Source Wikipedia|None|12958749|The 39 Clues - Tomas: 39 Clues - Search for the Keys, Agent Cards, Agent Handbook, Agents Kidnapped in the Medusa Plot, Alcatraz Island, Alo|None|4.50|16|None|
+5153555|Source Wikipedia|None|12958750|The 39 Clues - Janus: 39 Clues - Search for the Keys, A-Star, Agent Cards, Agent Handbook, Agents Kidnapped in the Medusa Plot, Amber, Arena|None|4.50|16|None|
+5153555|Source Wikipedia|None|13062125|Camp Half-Blood - Percy Jackson and the Olympians Places: Cabins, Camp Half-Blood, the Battle of the Labyrinth Places, the Last Olympian Places, the L|None|4.24|17|None|
+5153555|Source Wikipedia|None|13121914|V.C. Andrews - Book Series: All That Glitters, Andrew Neiderman, Characters, Daughter of Darkness, Dawn, Families, Family Trees, Hannah Eaton, Hea|None|4.60|15|None|
+5153555|Source Wikipedia|None|13073564|The 39 Clues - Vespers: 39 Clues - Search for the Keys, a King's Ransom, Adolf Hitler, Agent Cards, Agent Handbook, Agents Kidnapped in the Me|None|4.79|14|None|
+5153555|Source Wikipedia|None|13037570|The 39 Clues - Cards: Agent Cards, Aloe, Anastasia Romanov, Boys' Life Cards, Cahill Commotion, Cahills Vs.Vespers, Card 26, Card Chart, Car|None|4.71|14|None|
+5153555|Source Wikipedia|None|12958747|The 39 Clues - Lucian: 39 Clues - Search for the Keys, Adolf Hitler, Agent Cards, Agent Handbook, Agents Kidnapped in the Medusa Plot, Alana|None|4.64|14|None|
+5153555|Source Wikipedia|None|13184416|The 39 Clues - Cahill Family: A King's Ransom, Bhaile Anois, Branch Crests, Branches, Cahill Timeline, Casper Wyoming, Ching Shih, Clues, Ekaterina|None|4.64|14|None|
+5153555|Source Wikipedia|None|12070032|Novelas de Isabel Allende: La Casa de Los ESP Ritus, El Bosque de Los Pigmeos, El Reino del Drag N de Oro, de Amor y de Sombra|None|4.20|15|None|
+5153555|Source Wikipedia|None|8785703|Short Stories by H. P. Lovecraft (Book Guide): The Dunwich Horror, the Call of Cthulhu, the Shadow Over Innsmouth, the Whisperer in Darkness|None|4.20|15|None|
+9237|Jacqueline Carey|None|153008|Kushiel's Dart (Phèdre's Trilogy, #1)|2003|4.09|35473|2003|
+9237|Jacqueline Carey|None|395962|Kushiel's Chosen (Phèdre's Trilogy, #2)|2003|4.31|21431|2003|
+9237|Jacqueline Carey|None|40223|Kushiel's Avatar (Phèdre's Trilogy #3)|2004|4.39|18746|2004|
+9237|Jacqueline Carey|None|153007|Kushiel's Scion (Imriel's Trilogy, #1)|2007|4.16|12315|2007|
+9237|Jacqueline Carey|None|40217|Kushiel's Justice (Imriel's Trilogy, #2)|2007|4.22|10666|2007|
+9237|Jacqueline Carey|None|2152871|Kushiel's Mercy (Imriel's Trilogy, #3)|2008|4.29|9983|2008|
+9237|Jacqueline Carey|None|5659537|Naamah's Kiss (Moirin Trilogy, #1)|None|4.08|7967|None|
+9237|Jacqueline Carey|None|6586456|Naamah's Curse (Moirin Trilogy, #2)|2010|4.10|5829|2010|
+9237|Jacqueline Carey|None|9519912|Naamah's Blessing (Moirin Trilogy, #3)|2011|4.17|4951|2011|
+9237|Jacqueline Carey|None|5931169|Santa Olivia (Santa Olivia, #1)|2009|3.81|4800|2009|
+9237|Jacqueline Carey|None|13507967|Dark Currents (Agent of Hel, #1)|2012|3.80|3080|2012|
+9237|Jacqueline Carey|None|40222|Banewreaker (The Sundering, #1)|None|3.39|2925|None|
+9237|Jacqueline Carey|None|40220|Godslayer (The Sundering, #2)|None|3.63|2117|None|
+9237|Jacqueline Carey|None|12076991|Saints Astray (Santa Olivia, #2)|2011|3.53|1421|2011|
+9237|Jacqueline Carey|None|17340100|Autumn Bones (Agent of Hel, #2)|2013|3.83|1302|2013|
+9237|Jacqueline Carey|None|7738528|O Dardo de Kushiel (Kushiel, #1)|2010|3.83|434|2010|
+9237|Jacqueline Carey|None|40225|The Sundering (The Sundering, #1-2)|2005|3.76|221|2005|
+9237|Jacqueline Carey|None|8149246|A Marca de Kushiel (Kushiel, #2)|2010|4.20|141|2010|
+9237|Jacqueline Carey|None|9466484|A Eleita de Kushiel (Kushiel, #3)|2010|4.20|56|2010|
+9237|Jacqueline Carey|None|9738246|Il trono e la stirpe (Ciclo su Imriel #1)|2009|3.96|53|2009|
+9237|Jacqueline Carey|None|16062924|In the Matter of Fallen Angels: A Short Story|2012|3.59|58|2012|
+9237|Jacqueline Carey|None|10634616|A Promessa de Kushiel (Kushiel, #4)|2011|4.29|45|2011|
+9237|Jacqueline Carey|None|9738053|Il principe e il peccato (Ciclo su Imriel #3)|2010|4.21|38|2010|
+9237|Jacqueline Carey|None|9725589|Il sangue e il traditore (Ciclo su Imriel #2)|2010|4.00|40|2010|
+9237|Jacqueline Carey|None|10600683|La sposa e la vendetta (Ciclo su Imriel #4)|2011|4.34|32|2011|
+9237|Jacqueline Carey|None|13516242|Avatar de Kushiel (Kushiel, #5)|2012|4.37|27|2012|
+9237|Jacqueline Carey|None|12968777|Il bacio e il sortilegio (Ciclo su Imriel #5)|2011|4.33|27|2011|
+9237|Jacqueline Carey|None|13499443|La spada e la promessa (Ciclo su Imriel #6)|2012|4.50|24|2012|
+9237|Jacqueline Carey|None|40226|Angels: Celestial Spirits in Legend & Art|None|3.96|26|None|
+9237|Jacqueline Carey|None|17971916|Justiça de Kushiel (Kushiel, #6)|2013|4.41|17|2013|
+7025|Gregory Maguire|1954/06/09|37442|Wicked: The Life and Times of the Wicked Witch of the West (The Wicked Years, #1)|2000|3.46|378467|2000|
+7025|Gregory Maguire|1954/06/09|18943|Confessions of an Ugly Stepsister|2000|3.49|42047|2000|
+7025|Gregory Maguire|1954/06/09|13521|Son of a Witch (The Wicked Years, #2)|2006|3.41|41753|2006|
+7025|Gregory Maguire|1954/06/09|15858|Mirror Mirror|2004|3.24|22036|2004|
+7025|Gregory Maguire|1954/06/09|3124249|A Lion Among Men (The Wicked Years, #3)|2008|3.23|17660|2008|
+7025|Gregory Maguire|1954/06/09|10594929|Out of Oz (Wicked Years, #4)|2011|3.79|9664|2011|
+7025|Gregory Maguire|1954/06/09|24929|Lost|2002|2.76|10704|2002|
+7025|Gregory Maguire|1954/06/09|350500|What-the-Dickens: The Story of a Rogue Tooth Fairy|2007|3.31|4715|2007|
+7025|Gregory Maguire|1954/06/09|13522|Wicked / Son of a Witch (The Wicked Years, #1-2)|None|3.80|3160|None|
+7025|Gregory Maguire|1954/06/09|6541090|Matchless: A Christmas Story|2009|3.36|2035|2009|
+7025|Gregory Maguire|1954/06/09|7030989|The Next Queen of Heaven|2010|3.00|1168|2010|
+7025|Gregory Maguire|1954/06/09|24934|Leaping Beauty: And Other Animal Fairy Tales|2006|3.37|794|2006|
+7025|Gregory Maguire|1954/06/09|1161230|Missing Sisters|1994|3.27|325|1994|
+7025|Gregory Maguire|1954/06/09|24930|The Dream Stealer|2002|3.58|283|2002|
+7025|Gregory Maguire|1954/06/09|37356|Seven Spiders Spinning|1995|3.59|195|1995|
+7025|Gregory Maguire|1954/06/09|6678983|Making Mischief: A Maurice Sendak Appreciation|2009|3.85|172|2009|
+7025|Gregory Maguire|1954/06/09|24933|Four Stupid Cupids|2001|3.59|86|2001|
+7025|Gregory Maguire|1954/06/09|37350|The Good Liar|2002|3.63|84|2002|
+7025|Gregory Maguire|1954/06/09|27236|Six Haunted Hairdos|1999|3.54|68|1999|
+7025|Gregory Maguire|1954/06/09|37360|Three Rotten Eggs|2005|3.58|55|2005|
+7025|Gregory Maguire|1954/06/09|1392391|Five Alien Elves|2002|3.69|49|2002|
+7025|Gregory Maguire|1954/06/09|762468|A Couple of April Fools|2004|3.59|32|2004|
+7025|Gregory Maguire|1954/06/09|204060|One Final Firecracker|None|3.70|30|None|
+7025|Gregory Maguire|1954/06/09|37353|Oasis|1998|3.42|31|1998|
+7025|Gregory Maguire|1954/06/09|18655933|The Wicked Years Complete Collection: Wicked, Son of a Witch, A Lion Among Men, and Out of Oz|2013|4.65|20|2013|
+7025|Gregory Maguire|1954/06/09|824454|I Feel Like the Morning Star|None|3.81|16|None|
+7025|Gregory Maguire|1954/06/09|1161231|Crabby Cratchitt|2000|3.38|13|2000|
+7025|Gregory Maguire|1954/06/09|37357|The Daughter of the Moon|None|4.10|10|None|
+7025|Gregory Maguire|1954/06/09|1373574|The Peace and Quiet Diner|None|4.25|8|None|
+7025|Gregory Maguire|1954/06/09|1373575|The Lightning Time|1979|4.67|6|1979|
+31232|Steven Erikson|1959/10/07|55399|Gardens of the Moon (The Malazan Book of the Fallen, #1)|2005|3.81|32104|2005|
+31232|Steven Erikson|1959/10/07|55401|Deadhouse Gates (The Malazan Book of the Fallen, #2)|None|4.24|17467|None|
+31232|Steven Erikson|1959/10/07|175983|Memories of Ice (Malazan Book of the Fallen, #3)|2006|4.35|16571|2006|
+31232|Steven Erikson|1959/10/07|55398|House of Chains (The Malazan Book of the Fallen, #4)|2007|4.29|13961|2007|
+31232|Steven Erikson|1959/10/07|345299|Midnight Tides (Malazan Book of the Fallen, #5)|2005|4.31|10523|2005|
+31232|Steven Erikson|1959/10/07|478951|The Bonehunters (Malazan Book of the Fallen, #6)|2007|4.38|10173|2007|
+31232|Steven Erikson|1959/10/07|938544|Toll the Hounds (Malazan Book of the Fallen, #8)|None|4.31|8524|None|
+31232|Steven Erikson|1959/10/07|459064|Reaper's Gale (Malazan Book of the Fallen, #7)|2007|4.32|8441|2007|
+31232|Steven Erikson|1959/10/07|8447255|The Crippled God (The Malazan Book of the Fallen, #10)|2011|4.37|8030|2011|
+31232|Steven Erikson|1959/10/07|4703427|Dust of Dreams (Malazan Book of the Fallen, #9)|2010|4.31|7040|2010|
+31232|Steven Erikson|1959/10/07|13038833|The Forge of Darkness (The Kharkanas Trilogy #1)|2012|4.15|1714|2012|
+31232|Steven Erikson|1959/10/07|6616579|Bauchelain and Korbal Broach: Three Short Novels of the Malazan Empire, Volume One|2009|3.93|1532|2009|
+31232|Steven Erikson|1959/10/07|55400|Blood Follows (The Tales of Bauchelain and Korbal Broach #1)|2005|3.86|785|2005|
+31232|Steven Erikson|1959/10/07|55397|The Healthy Dead (The Tales of Bauchelain and Korbal Broach #2)|2005|3.99|670|2005|
+31232|Steven Erikson|1959/10/07|2255638|The Lees Of Laughter's End (The Tales of Bauchelain and Korbal Broach #3)|2007|4.00|428|2007|
+31232|Steven Erikson|1959/10/07|7143429|Crack'd Pot Trail (The Tales of Bauchelain and Korbal Broach #4)|None|3.63|440|None|
+31232|Steven Erikson|1959/10/07|10483592|The Malazan Book of the Fallen|None|4.72|205|None|
+31232|Steven Erikson|1959/10/07|55394|Die eisige Zeit (Das Spiel der Götter, #4)|2003|4.33|97|2003|
+31232|Steven Erikson|1959/10/07|1277603|Der Tag des Sehers (Das Spiel der Götter, #5)|None|4.45|69|None|
+31232|Steven Erikson|1959/10/07|541871|Das Reich der Sieben Städte (Das Spiel der Götter, #2)|2001|4.18|55|2001|
+31232|Steven Erikson|1959/10/07|3084704|Die Feuer der Rebellion (Das Spiel der Götter, #10)|2007|4.49|47|2007|
+31232|Steven Erikson|1959/10/07|6100210|Die Knochenjäger (Das Spiel der Götter, #11)|2008|4.54|46|2008|
+31232|Steven Erikson|1959/10/07|15733342|The Wurms of Blearmouth (The Tales of Bauchelain and Korbal Broach #5)|2012|4.06|51|2012|
+31232|Steven Erikson|1959/10/07|1277605|Der Krieg der Schwestern (Das Spiel der Götter, #6)|2004|4.23|48|2004|
+31232|Steven Erikson|1959/10/07|1277611|Das Haus der Ketten (Das Spiel der Götter, #7)|2004|4.40|45|2004|
+31232|Steven Erikson|1959/10/07|3109397|Gezeiten der Nacht (Das Spiel der Götter, #9)|2006|4.45|42|2006|
+31232|Steven Erikson|1959/10/07|3092734|Kinder des Schattens (Das Spiel der Götter, #8)|2005|4.38|42|2005|
+31232|Steven Erikson|1959/10/07|6908115|Der goldene Herrscher (Das Spiel der Götter, #12)|2008|4.50|40|2008|
+31232|Steven Erikson|1959/10/07|20345548|The Malazan Empire|2014|4.75|36|2014|
+31232|Steven Erikson|1959/10/07|6363150|Im Sturm des Verderbens (Das Spiel der Götter, #13)|2010|4.53|36|2010|
+4432|Jasper Fforde|1961/01/11|27003|The Eyre Affair (Thursday Next #1)|2003|3.92|67324|2003|
+4432|Jasper Fforde|1961/01/11|27000|Lost in a Good Book (Thursday Next, #2)|2004|4.13|30716|2004|
+4432|Jasper Fforde|1961/01/11|27001|The Well of Lost Plots (Thursday Next #3)|2004|4.08|23237|2004|
+4432|Jasper Fforde|1961/01/11|26999|Something Rotten (Thursday Next, #4)|2005|4.12|19648|2005|
+4432|Jasper Fforde|1961/01/11|6628|The Big Over Easy (Nursery Crime, #1)|2006|3.90|19777|2006|
+4432|Jasper Fforde|1961/01/11|2113260|Shades of Grey (Shades of Grey, #1)|2009|4.12|16670|2009|
+4432|Jasper Fforde|1961/01/11|27002|First Among Sequels (Thursday Next, #5)|2007|3.98|15175|2007|
+4432|Jasper Fforde|1961/01/11|148809|The Fourth Bear (Nursery Crime, #2)|2006|4.04|13703|2006|
+4432|Jasper Fforde|1961/01/11|1503696|The Pickwick Papers|2004|3.78|11727|2004|
+4432|Jasper Fforde|1961/01/11|8131227|One of Our Thursdays Is Missing (Thursday Next, #6)|2011|3.89|9939|2011|
+4432|Jasper Fforde|1961/01/11|13316328|The Last Dragonslayer (The Last Dragonslayer, #1)|2012|3.82|8026|2012|
+4432|Jasper Fforde|1961/01/11|13001274|The Woman Who Died a Lot (Thursday Next, #7)|2012|4.03|5845|2012|
+4432|Jasper Fforde|1961/01/11|17165902|The Song of the Quarkbeast (The Last Dragonslayer, #2)|2013|3.97|2604|2013|
+4432|Jasper Fforde|1961/01/11|963691|The Next Set (Thursday Next, #1-4)|2005|4.46|189|2005|
+4432|Jasper Fforde|1961/01/11|16043857|The Eye of Zoltar (The Last Dragonslayer, #3)|2014|4.07|172|2014|
+4432|Jasper Fforde|1961/01/11|12577730|The Thursday Next Chronicles|2004|4.51|72|2004|
+4432|Jasper Fforde|1961/01/11|10719837|A Thursday Next Digital Collection: Novels 1-5|2011|4.33|54|2011|
+4432|Jasper Fforde|1961/01/11|14109362|Buzz Books 2012|2012|3.96|51|2012|
+4432|Jasper Fforde|1961/01/11|9531458|Painting by Numbers (Shades of Grey, #2)|2015|4.00|33|2015|
+4432|Jasper Fforde|1961/01/11|13617248|Dark Reading Matter (Thursday Next, #8)|2015|4.00|21|2015|
+4432|Jasper Fforde|1961/01/11|11315536|Voices from the Past|2011|3.44|18|2011|
+4432|Jasper Fforde|1961/01/11|11049978|The Last Great Tortoise Race (Nursery Crime, #3)|2015|3.64|11|2015|
+4432|Jasper Fforde|1961/01/11|12366783|XVII Premio UPC. Novela Corta de Ciencia Ficción|2008|3.75|8|2008|
+4432|Jasper Fforde|1961/01/11|9531466|Gordini Protocols (Shades of Grey, #3)|2015|4.33|6|2015|
+5807106|Iain M. Banks|1954/02/16|8935689|Consider Phlebas (Culture, #1)|2005|3.83|26980|2005|
+5807106|Iain M. Banks|1954/02/16|18630|The Player of Games (Culture, #2)|1997|4.23|23911|1997|
+5807106|Iain M. Banks|1954/02/16|12007|Use of Weapons (Culture, #3)|None|4.17|15580|None|
+5807106|Iain M. Banks|1954/02/16|12013|Excession (Culture, #5)|1998|4.14|10359|1998|
+5807106|Iain M. Banks|1954/02/16|886066|Matter (Culture, #8)|2008|3.94|10290|2008|
+5807106|Iain M. Banks|1954/02/16|7937744|Surface Detail (Culture, #9)|2010|4.16|9531|2010|
+5807106|Iain M. Banks|1954/02/16|12016|Look to Windward (Culture, #7)|2002|4.07|8771|2002|
+5807106|Iain M. Banks|1954/02/16|12009|The Algebraist|2006|3.92|9102|2006|
+5807106|Iain M. Banks|1954/02/16|422452|Against a Dark Background|1993|4.03|7397|1993|
+5807106|Iain M. Banks|1954/02/16|12017|Inversions (Culture, #6)|2001|3.85|6380|2001|
+5807106|Iain M. Banks|1954/02/16|13497991|The Hydrogen Sonata (Culture, #10)|2012|4.03|5639|2012|
+5807106|Iain M. Banks|1954/02/16|129131|The State of the Art (Culture, #4)|2007|3.82|5370|2007|
+5807106|Iain M. Banks|1954/02/16|6436659|Transition|None|3.81|5028|None|
+5807106|Iain M. Banks|1954/02/16|12015|Feersum Endjinn|1996|3.73|5082|1996|
+5807106|Iain M. Banks|1954/02/16|829944|The Space Opera Renaissance|2006|3.93|168|2006|
+5807106|Iain M. Banks|1954/02/16|13701729|The Culture: Consider Phlebas/Player of Games/Use of Weapons|2012|4.56|84|2012|
+5807106|Iain M. Banks|1954/02/16|11561212|Look to Windward / The Business / The Bridge / Consider Phlebas / The Algebraist|None|4.65|20|None|
+5807106|Iain M. Banks|1954/02/16|15766839|La macchina che uccide|1998|3.32|25|1998|
+5807106|Iain M. Banks|1954/02/16|1502701|Das Kultur-Spiel: Das Spiel Azad/Einsatz der Waffen|None|4.57|14|None|
+5807106|Iain M. Banks|1954/02/16|11886137|The New Science Fiction Novels Set|1996|5.00|5|1996|
+5807106|Iain M. Banks|1954/02/16|16046222|Enfers Virtuels - Tome 1|2011|4.00|5|2011|
+5807106|Iain M. Banks|1954/02/16|16046240|Enfers Virtuels - Tome 2|2011|4.00|3|2011|
+5807106|Iain M. Banks|1954/02/16|21129887|Feersum Endjinn|None|4.50|2|None|
+5807106|Iain M. Banks|1954/02/16|17698587|Monolith 006 (Monolith, #6)|2003|4.50|2|2003|
+5807106|Iain M. Banks|1954/02/16|22085710|Sirius B - broj 15|2014|4.00|1|2014|
+5807106|Iain M. Banks|1954/02/16|21520224|Jugador, El|None|4.00|1|None|
+5807106|Iain M. Banks|1954/02/16|20936293|Última generación|None|0.0|0|None|
+5807106|Iain M. Banks|1954/02/16|18535100|War and Sacrifice: Studies in the Archaeology of Conflict|2006|0.0|0|2006|
+15590|Mary Stewart|1916/09/12|82192|The Crystal Cave (Arthurian Saga, #1)|2003|4.10|25630|2003|
+15590|Mary Stewart|1916/09/12|116343|The Hollow Hills (Arthurian Saga, #2)|2003|4.21|14042|2003|
+15590|Mary Stewart|1916/09/12|64105|The Last Enchantment (Arthurian Saga, #3)|2003|4.11|9079|2003|
+15590|Mary Stewart|1916/09/12|27692|The Wicked Day (Arthurian Saga, #4)|2003|4.05|7472|2003|
+15590|Mary Stewart|1916/09/12|27695|Nine Coaches Waiting|2006|3.99|5796|2006|
+15590|Mary Stewart|1916/09/12|27693|The Moonspinners|2003|3.98|4121|2003|
+15590|Mary Stewart|1916/09/12|27690|Touch Not the Cat|2005|3.84|3313|2005|
+15590|Mary Stewart|1916/09/12|27694|This Rough Magic|2004|3.99|3100|2004|
+15590|Mary Stewart|1916/09/12|27696|Airs Above the Ground|2004|3.94|2930|2004|
+15590|Mary Stewart|1916/09/12|27689|Mary Stewart's Merlin Trilogy (Arthurian Saga, #1-3)|2004|4.33|2619|2004|
+15590|Mary Stewart|1916/09/12|336409|My Brother Michael|2001|3.93|2699|2001|
+15590|Mary Stewart|1916/09/12|27698|Madam, Will You Talk?|2003|3.95|2666|2003|
+15590|Mary Stewart|1916/09/12|141452|Thornyhold|1988|3.70|2847|1988|
+15590|Mary Stewart|1916/09/12|116341|The Ivy Tree|2001|3.82|2710|2001|
+15590|Mary Stewart|1916/09/12|27691|The Gabriel Hounds|2006|3.81|2366|2006|
+15590|Mary Stewart|1916/09/12|116344|Wildfire at Midnight|2003|3.86|2166|2003|
+15590|Mary Stewart|1916/09/12|336414|Thunder on the Right|2004|3.75|1737|2004|
+15590|Mary Stewart|1916/09/12|116342|Rose Cottage|1998|3.43|1878|1998|
+15590|Mary Stewart|1916/09/12|205760|The Stormy Petrel|1995|3.39|1336|1995|
+15590|Mary Stewart|1916/09/12|336410|The Prince and the Pilgrim (Arthurian Saga, #5)|1997|3.57|859|1997|
+15590|Mary Stewart|1916/09/12|88551|A Walk in Wolf Wood|None|3.75|750|None|
+15590|Mary Stewart|1916/09/12|1135281|The Little Broomstick|2006|3.83|224|2006|
+15590|Mary Stewart|1916/09/12|751981|Arthurian Novels: Crystal Cave/Hollow Hills/The Last Enchantment|1982|4.53|149|1982|
+15590|Mary Stewart|1916/09/12|10418483|Legacy: Arthurian Saga|2012|4.35|148|2012|
+15590|Mary Stewart|1916/09/12|345963|The Crystal Cave/The Hollow Hills/Wildfire at Midnight|None|4.34|124|None|
+15590|Mary Stewart|1916/09/12|948035|Ludo and the Star Horse|None|3.96|126|None|
+15590|Mary Stewart|1916/09/12|948027|The Wind off the Small Isles|1968|3.81|114|1968|
+15590|Mary Stewart|1916/09/12|6202745|The Spell of Mary Stewart: The Ivy Tree/This Rough Magic/Wildfire at Midnight|1968|4.24|68|1968|
+15590|Mary Stewart|1916/09/12|6705307|The Moonspinners/Nine Coaches Waiting/The Ivy Tree/Madam, Will You Talk?|1979|4.45|53|1979|
+15590|Mary Stewart|1916/09/12|3420100|Three Novels of Suspense: Madam, Will You Talk?, Nine Coaches Waiting & My Brother Michael|1960|4.27|48|1960|
+10746|Jim Butcher|None|47212|Storm Front (The Dresden Files, #1)|2000|4.02|122232|2000|
+10746|Jim Butcher|None|91477|Fool Moon (The Dresden Files, #2)|2001|4.04|68974|2001|
+10746|Jim Butcher|None|91476|Grave Peril (The Dresden Files, #3)|2001|4.18|61242|2001|
+10746|Jim Butcher|None|91478|Summer Knight (The Dresden Files, #4)|2002|4.29|56857|2002|
+10746|Jim Butcher|None|91479|Death Masks (The Dresden Files, #5)|2003|4.30|52676|2003|
+10746|Jim Butcher|None|99383|Blood Rites (The Dresden Files, #6)|2004|4.32|50373|2004|
+10746|Jim Butcher|None|17683|Dead Beat (The Dresden Files, #7)|2006|4.42|49148|2006|
+10746|Jim Butcher|None|91474|Proven Guilty (The Dresden Files, #8)|2007|4.40|47454|2007|
+10746|Jim Butcher|None|91475|White Night (The Dresden Files, #9)|2007|4.40|46882|2007|
+10746|Jim Butcher|None|927979|Small Favor (The Dresden Files, #10)|2008|4.42|44776|2008|
+10746|Jim Butcher|None|6585201|Changes (The Dresden Files, #12)|2010|4.52|39230|2010|
+10746|Jim Butcher|None|3475161|Turn Coat (The Dresden Files, #11)|2009|4.43|39140|2009|
+10746|Jim Butcher|None|29396|Furies of Calderon (Codex Alera, #1)|2005|4.11|39316|2005|
+10746|Jim Butcher|None|8058301|Ghost Story (The Dresden Files,  #13)|2011|4.25|36498|2011|
+10746|Jim Butcher|None|12216302|Cold Days (The Dresden Files, #14)|2012|4.51|31883|2012|
+10746|Jim Butcher|None|6316821|First Lord's Fury (Codex Alera, #6)|2009|4.36|25470|2009|
+10746|Jim Butcher|None|346087|Captain's Fury (Codex Alera, #4)|2007|4.37|24938|2007|
+10746|Jim Butcher|None|2903736|Princeps' Fury (Codex Alera, #5)|2008|4.35|24850|2008|
+10746|Jim Butcher|None|133664|Academ's Fury (Codex Alera, #2)|2006|4.25|24134|2006|
+10746|Jim Butcher|None|29394|Cursor's Fury (Codex Alera, #3)|2006|4.35|23461|2006|
+10746|Jim Butcher|None|7779059|Side Jobs: Stories From the Dresden Files (The Dresden Files, #12.5)|2010|4.19|21238|2010|
+10746|Jim Butcher|None|2637138|Welcome to the Jungle (The Dresden Files, #0.5)|2008|3.95|7271|2008|
+10746|Jim Butcher|None|3475145|Mean Streets (Remy Chandler, #1.5; Greywalker, #3.5; Nightside, #9.5; The Dresden Files, #10.5)|2009|3.97|5943|2009|
+10746|Jim Butcher|None|2575572|Backup (The Dresden Files, #10.3)|None|4.06|5361|None|
+10746|Jim Butcher|None|346091|Wizard for Hire (The Dresden Files Omnibus, #1-3)|2005|4.46|1200|2005|
+10746|Jim Butcher|None|15732549|Restoration of Faith (The Dresden Files, #0.2)|2004|3.99|1147|2004|
+10746|Jim Butcher|None|4271488|Vignette (The Dresden Files, #5.5)|2008|4.06|963|2008|
+10746|Jim Butcher|None|346092|Wizard by Trade (The Dresden Files, #4-5)|None|4.53|795|None|
+10746|Jim Butcher|None|1948642|Wizard Under Fire (The Dresden Files, #8-9)|None|4.57|754|None|
+10746|Jim Butcher|None|3431100|Wizard at Large (The Dresden Files, #6-7)|2006|4.56|670|2006|
+23069|Gene Wolfe|1931/05/07|60211|The Shadow of the Torturer (The Book of the New Sun #1)|None|3.83|9140|None|
+23069|Gene Wolfe|1931/05/07|40992|Shadow and Claw (The Book of the New Sun, #1-2)|None|4.10|7541|None|
+23069|Gene Wolfe|1931/05/07|40995|Sword and Citadel (The Book of the New Sun, #3-4)|None|4.34|5384|None|
+23069|Gene Wolfe|1931/05/07|463376|The Claw of the Conciliator (The Book of the New Sun #2)|None|4.03|4678|None|
+23069|Gene Wolfe|1931/05/07|463378|The Sword of the Lictor (The Book of the New Sun #3)|None|4.15|4057|None|
+23069|Gene Wolfe|1931/05/07|299758|The Citadel of the Autarch (The Book of the New Sun #4)|1983|4.23|2975|1983|
+23069|Gene Wolfe|1931/05/07|845501|The Fifth Head of Cerberus|1994|4.02|2588|1994|
+23069|Gene Wolfe|1931/05/07|60215|The Urth of the New Sun (The Book of the New Sun #5)|1997|3.97|2560|1997|
+23069|Gene Wolfe|1931/05/07|60212|The Knight (The Wizard Knight, #1)|None|3.73|2692|None|
+23069|Gene Wolfe|1931/05/07|40996|The Wizard (The Wizard Knight, #2)|None|3.84|1909|None|
+23069|Gene Wolfe|1931/05/07|968868|The Book of the New Sun|1998|4.12|1658|1998|
+23069|Gene Wolfe|1931/05/07|322067|Soldier of the Mist|None|3.96|1534|None|
+23069|Gene Wolfe|1931/05/07|288132|Litany of the Long Sun (The Book of the Long Sun, #1-2)|None|4.22|1354|None|
+23069|Gene Wolfe|1931/05/07|344935|Latro in the Mist|2003|4.18|1115|2003|
+23069|Gene Wolfe|1931/05/07|201991|Epiphany of the Long Sun (The Book of the Long Sun, #3-4)|None|4.26|1075|None|
+23069|Gene Wolfe|1931/05/07|60214|On Blue's Waters|None|4.11|837|None|
+23069|Gene Wolfe|1931/05/07|271587|The Island of Doctor Death and Other Stories and Other Stories|None|4.13|812|None|
+23069|Gene Wolfe|1931/05/07|60213|Peace|None|4.01|790|None|
+23069|Gene Wolfe|1931/05/07|271588|In Green's Jungles|2001|4.17|742|2001|
+23069|Gene Wolfe|1931/05/07|6845909|The Sorcerer's House|2010|3.67|825|2010|
+23069|Gene Wolfe|1931/05/07|618260|Return to the Whorl (The Book of the Short Sun, #3)|None|4.23|683|None|
+23069|Gene Wolfe|1931/05/07|1455439|Nightside: The Long Sun|None|3.97|670|None|
+23069|Gene Wolfe|1931/05/07|40997|Soldier of Sidon|None|3.97|652|None|
+23069|Gene Wolfe|1931/05/07|630402|Soldier of Arete|None|4.14|561|None|
+23069|Gene Wolfe|1931/05/07|666601|There Are Doors|2001|3.61|633|2001|
+23069|Gene Wolfe|1931/05/07|1455440|Lake of the Long Sun|None|4.12|517|None|
+23069|Gene Wolfe|1931/05/07|727297|Caldé of the Long Sun|None|4.04|505|None|
+23069|Gene Wolfe|1931/05/07|2878702|An Evil Guest|2008|3.02|649|2008|
+23069|Gene Wolfe|1931/05/07|703026|Pirate Freedom|2007|3.66|483|2007|
+23069|Gene Wolfe|1931/05/07|755024|Exodus from the Long Sun|1997|4.00|433|1997|
+12479|Timothy Zahn|None|216443|Heir to the Empire (Star Wars: The Thrawn Trilogy, #1)|1992|4.07|32877|1992|
+12479|Timothy Zahn|None|216442|Dark Force Rising (Star Wars: The Thrawn Trilogy, #2)|1993|4.10|25329|1993|
+12479|Timothy Zahn|None|216422|The Last Command (Star Wars: The Thrawn Trilogy, #3)|1994|4.16|22272|1994|
+12479|Timothy Zahn|None|77787|Specter of the Past (Star Wars: The Hand of Thrawn, #1)|1998|3.93|9716|1998|
+12479|Timothy Zahn|None|77786|Vision of the Future (Star Wars: The Hand of Thrawn, #2)|1998|4.00|8675|1998|
+12479|Timothy Zahn|None|192523|Outbound Flight|None|3.87|6148|None|
+12479|Timothy Zahn|None|46623|Survivor's Quest|2005|3.94|4883|2005|
+12479|Timothy Zahn|None|35414|Allegiance|2007|3.94|4167|2007|
+12479|Timothy Zahn|None|13573427|Star Wars: Scoundrels|2013|3.76|2113|2013|
+12479|Timothy Zahn|None|192528|The Icarus Hunt|None|4.06|1954|None|
+12479|Timothy Zahn|None|9579882|Choices of One|2011|4.05|1903|2011|
+12479|Timothy Zahn|None|192525|Conquerors' Pride (The Conquerors Saga, #1)|1994|3.87|1663|1994|
+12479|Timothy Zahn|None|216445|Dragon and Thief (Dragonback, #1)|2004|4.02|1342|2004|
+12479|Timothy Zahn|None|192526|Conquerors' Heritage (The Conquerors Saga, #2)|None|3.89|1234|None|
+12479|Timothy Zahn|None|192522|Conquerors' Legacy (The Conquerors Saga, #3)|1996|3.96|1156|1996|
+12479|Timothy Zahn|None|29455|Night Train to Rigel (Quadrail, #1)|2006|3.86|1107|2006|
+12479|Timothy Zahn|None|529647|Cobra (Cobra, #1)|None|3.73|1059|None|
+12479|Timothy Zahn|None|216437|Dragon and Soldier (Dragonback, #2)|2005|4.06|843|2005|
+12479|Timothy Zahn|None|192524|Angelmass|2002|3.65|858|2002|
+12479|Timothy Zahn|None|216435|Dragon and Slave (Dragonback, #3)|2006|4.07|738|2006|
+12479|Timothy Zahn|None|416757|Dragon and Herdsman (Dragonback, #4)|2007|4.10|644|2007|
+12479|Timothy Zahn|None|529644|The Third Lynx (Quadrail, #2)|2007|3.88|677|2007|
+12479|Timothy Zahn|None|416758|Cobra Strike (Cobra, #2)|None|3.73|703|None|
+12479|Timothy Zahn|None|2056957|Fool's Bargain|2004|3.85|654|2004|
+12479|Timothy Zahn|None|192527|Dragon and Judge (Dragonback, #5)|2007|4.13|575|2007|
+12479|Timothy Zahn|None|2193329|Dragon and Liberator (Dragonback, #6)|2008|4.25|547|2008|
+12479|Timothy Zahn|None|3028357|Odd Girl Out (Quadrail, #3)|2008|3.91|587|2008|
+12479|Timothy Zahn|None|216441|Manta's Gift|2003|3.74|597|2003|
+12479|Timothy Zahn|None|6651968|The Domino Pattern (Quadrail, #4)|2010|4.09|513|2010|
+12479|Timothy Zahn|None|252559|The Cobra Trilogy|2004|3.87|524|2004|
+3487|Aldous Huxley|1894/07/26|5129|Brave New World|None|3.92|696219|None|
+3487|Aldous Huxley|1894/07/26|5479|Brave New World/Brave New World Revisited|2005|4.13|63270|2005|
+3487|Aldous Huxley|1894/07/26|5128|The Doors of Perception/Heaven and Hell|2004|3.94|18137|2004|
+3487|Aldous Huxley|1894/07/26|5130|Island|2002|3.85|9692|2002|
+3487|Aldous Huxley|1894/07/26|5481|Brave New World Revisited|2006|3.86|6857|2006|
+3487|Aldous Huxley|1894/07/26|5135|Point Counter Point|1996|3.82|5508|1996|
+3487|Aldous Huxley|1894/07/26|3188964|The Doors of Perception|1954|3.97|2831|1954|
+3487|Aldous Huxley|1894/07/26|53672|Crome Yellow|2004|3.41|2860|2004|
+3487|Aldous Huxley|1894/07/26|30561|Ape and Essence|1992|3.74|2190|1992|
+3487|Aldous Huxley|1894/07/26|5131|The Perennial Philosophy|2004|4.20|1744|2004|
+3487|Aldous Huxley|1894/07/26|5136|After Many a Summer Dies the Swan|1993|3.73|1311|1993|
+3487|Aldous Huxley|1894/07/26|261004|Eyeless in Gaza|2004|3.87|1142|2004|
+3487|Aldous Huxley|1894/07/26|64710|The First and Last Freedom|1975|4.44|788|1975|
+3487|Aldous Huxley|1894/07/26|53673|The Devils of Loudun|2005|3.89|887|2005|
+3487|Aldous Huxley|1894/07/26|30572|The Genius And The Goddess|1955|3.74|871|1955|
+3487|Aldous Huxley|1894/07/26|294609|Antic Hay|None|3.44|863|None|
+3487|Aldous Huxley|1894/07/26|778878|Time Must Have a Stop|1998|3.64|565|1998|
+3487|Aldous Huxley|1894/07/26|207037|Those Barren Leaves|1998|3.49|300|1998|
+3487|Aldous Huxley|1894/07/26|5133|The Art of Seeing|None|3.67|258|None|
+3487|Aldous Huxley|1894/07/26|97674|The Crows of Pearblossom|2001|3.77|247|2001|
+3487|Aldous Huxley|1894/07/26|5134|Moksha: Writings on Psychedelics & the Visionary Experience|1999|4.09|200|1999|
+3487|Aldous Huxley|1894/07/26|64284|Heaven and Hell|1956|3.66|217|1956|
+3487|Aldous Huxley|1894/07/26|796106|The Gioconda Smile|None|3.32|176|None|
+3487|Aldous Huxley|1894/07/26|852606|Jacob's Hands: A Fable|1998|3.53|161|1998|
+3487|Aldous Huxley|1894/07/26|30560|Collected Short Stories|1992|3.86|125|1992|
+3487|Aldous Huxley|1894/07/26|1409850|Brief Candles|1970|3.52|103|1970|
+3487|Aldous Huxley|1894/07/26|39889|Grey Eminence|2005|4.19|85|2005|
+3487|Aldous Huxley|1894/07/26|5132|Huxley and God: Essays on Religious Experience|2003|4.29|66|2003|
+3487|Aldous Huxley|1894/07/26|718296|Tomorrow and Tomorrow and Tomorrow and Other Essays|1964|3.93|72|1964|
+3487|Aldous Huxley|1894/07/26|1575880|Music at Night and Other Essays|None|3.97|65|None|
+16939|Michael Moorcock|1939/12/18|30036|Elric of Melniboné (Elric, #1)|1987|3.88|12508|1987|
+16939|Michael Moorcock|1939/12/18|60141|Stormbringer (Elric, #6)|1987|4.14|5379|1987|
+16939|Michael Moorcock|1939/12/18|60149|The Vanishing Tower (Elric, #4)|1987|3.96|5389|1987|
+16939|Michael Moorcock|1939/12/18|131633|The Weird of the White Wolf (The Elric Saga, #3)|1988|3.98|5272|1988|
+16939|Michael Moorcock|1939/12/18|60154|The Sailor on the Seas of Fate (Elric, #2)|1989|3.95|5170|1989|
+16939|Michael Moorcock|1939/12/18|562253|The Bane of the Black Sword (The Elric Saga, #5)|1987|4.03|4103|1987|
+16939|Michael Moorcock|1939/12/18|60146|Behold the Man|2007|3.80|3062|2007|
+16939|Michael Moorcock|1939/12/18|60132|The Elric Saga Part I (Elric Saga, #1-3)|1983|4.07|2828|1983|
+16939|Michael Moorcock|1939/12/18|1442267|Elric at the End of Time (Elric, #7)|1985|3.87|2436|1985|
+16939|Michael Moorcock|1939/12/18|60147|The Dancers at the End of Time|2003|3.94|2154|2003|
+16939|Michael Moorcock|1939/12/18|102287|The Elric Saga Part II (Elric Saga, #4-6)|1984|4.16|1663|1984|
+16939|Michael Moorcock|1939/12/18|60133|Elric|2001|4.03|1621|2001|
+16939|Michael Moorcock|1939/12/18|30097|The Eternal Champion (Eternal Champion, #1)|1996|3.90|1658|1996|
+16939|Michael Moorcock|1939/12/18|594574|The Fortress of the Pearl (The Elric Saga, #8)|1990|3.75|1672|1990|
+16939|Michael Moorcock|1939/12/18|1891120|The Jewel in the Skull (History of the Runestaff, #1)|1973|3.79|1655|1973|
+16939|Michael Moorcock|1939/12/18|399373|The Swords Trilogy (Corum, #1-3)|1988|4.03|1452|1988|
+16939|Michael Moorcock|1939/12/18|399376|The Knight of the Swords (Corum, #1)|None|3.91|1332|None|
+16939|Michael Moorcock|1939/12/18|123690|Hawkmoon (Eternal Champion, #3)|1996|3.93|1322|1996|
+16939|Michael Moorcock|1939/12/18|399345|The Chronicles of Corum (Corum, #4-6)|1987|3.97|1118|1987|
+16939|Michael Moorcock|1939/12/18|1826083|The Silver Warriors (Erekosë, #2)|1985|3.82|1160|1985|
+16939|Michael Moorcock|1939/12/18|1387890|The Runestaff (History of the Runestaff, #4)|1974|3.83|1139|1974|
+16939|Michael Moorcock|1939/12/18|1062544|The Mad God's Amulet (The History of the Runestaff, #2)|1985|3.78|1128|1985|
+16939|Michael Moorcock|1939/12/18|30095|Gloriana|2004|3.57|1115|2004|
+16939|Michael Moorcock|1939/12/18|594582|The Revenge of the Rose (Elric, #9)|1994|3.69|1073|1994|
+16939|Michael Moorcock|1939/12/18|1387889|The Sword of the Dawn (History of the Runestaff, #3)|1973|3.79|1037|1973|
+16939|Michael Moorcock|1939/12/18|658625|The Queen of the Swords (Corum, #2)|1986|3.90|995|1986|
+16939|Michael Moorcock|1939/12/18|1890387|Elric: The Stealer of Souls (Chronicles of the Last Emperor of Melniboné, #1)|2008|3.80|983|2008|
+16939|Michael Moorcock|1939/12/18|60145|Elric: Song of the Black Sword (Eternal Champion, #5)|None|4.10|900|None|
+16939|Michael Moorcock|1939/12/18|699518|The King of the Swords (Corum, #3)|1986|3.90|946|1986|
+16939|Michael Moorcock|1939/12/18|1826082|The Eternal Champion (Erekosë, #1)|1987|3.84|892|1987|
+5339|Robin McKinley|1952/11/16|41424|Beauty (Folktales #1)|1993|4.06|43872|1993|
+5339|Robin McKinley|1952/11/16|407813|The Blue Sword (Damar, #2)|1987|4.24|34125|1987|
+5339|Robin McKinley|1952/11/16|77366|The Hero and the Crown (Damar, #1)|1987|4.23|29760|1987|
+5339|Robin McKinley|1952/11/16|8088|Sunshine|2004|3.83|22234|2004|
+5339|Robin McKinley|1952/11/16|77368|Spindle's End (Folktales #3)|2001|3.74|14358|2001|
+5339|Robin McKinley|1952/11/16|8087|Deerskin|2005|3.84|12523|2005|
+5339|Robin McKinley|1952/11/16|8089|Rose Daughter (Folktales #2)|1998|3.73|11444|1998|
+5339|Robin McKinley|1952/11/16|2828595|Chalice|2008|3.70|8096|2008|
+5339|Robin McKinley|1952/11/16|41423|The Outlaws of Sherwood|2005|3.73|7191|2005|
+5339|Robin McKinley|1952/11/16|8091|The Door in the Hedge|2003|3.66|5557|2003|
+5339|Robin McKinley|1952/11/16|7507951|Pegasus (Pegasus, #1)|2010|3.56|5373|2010|
+5339|Robin McKinley|1952/11/16|149338|Dragonhaven|2007|3.29|3827|2007|
+5339|Robin McKinley|1952/11/16|8090|A Knot in the Grain and Other Stories|None|3.67|2873|None|
+5339|Robin McKinley|1952/11/16|8085|Water: Tales of Elemental Spirits|2004|3.59|2006|2004|
+5339|Robin McKinley|1952/11/16|17465456|Shadows|2013|3.65|1374|2013|
+5339|Robin McKinley|1952/11/16|6352686|Fire: Tales of Elemental Spirits|2009|3.71|1085|2009|
+5339|Robin McKinley|1952/11/16|81039|Silver Birch, Blood Moon|None|4.06|851|None|
+5339|Robin McKinley|1952/11/16|8093|The Stone Fey|1998|3.29|796|1998|
+5339|Robin McKinley|1952/11/16|41430|Imaginary Lands|None|3.58|402|None|
+5339|Robin McKinley|1952/11/16|8086|A Robin McKinley Collection: Spindle's End, The Hero and the Crown and The Blue Sword (Folktales #1-3)|2002|4.35|292|2002|
+5339|Robin McKinley|1952/11/16|2170758|Black Beauty Storybook Edition|1986|4.10|259|1986|
+5339|Robin McKinley|1952/11/16|207107|Spells of Enchantment: The Wondrous Fairy Tales of Western Culture|1992|4.20|151|1992|
+5339|Robin McKinley|1952/11/16|41425|Rowan|None|3.43|102|None|
+5339|Robin McKinley|1952/11/16|41437|My Father is in the Navy|None|3.19|26|None|
+5339|Robin McKinley|1952/11/16|18282544|Kes|2013|4.18|17|2013|
+5339|Robin McKinley|1952/11/16|13280620|A Pool in the Desert|None|4.27|15|None|
+5339|Robin McKinley|1952/11/16|22055796|The Blue Sword (Newbery Honor Roll) Publisher: Puffin|None|4.54|13|None|
+5339|Robin McKinley|1952/11/16|10085735|Ebon (Pegasus, #2)|2015|4.07|15|2015|
+5339|Robin McKinley|1952/11/16|12912433|The Golden Country (Pegasus, #3)|2015|5.00|4|2015|
+5339|Robin McKinley|1952/11/16|18009373|The Contest: A Children's Book Helping Kids Understand the Fruit of the Spirit|2013|0.0|0|2013|
+44037|Vernor Vinge|1944/10/02|77711|A Fire Upon the Deep (Zones of Thought, #1)|2010|4.12|23070|2010|
+44037|Vernor Vinge|1944/10/02|226004|A Deepness in the Sky (Zones of Thought, #2)|2000|4.30|13635|2000|
+44037|Vernor Vinge|1944/10/02|102439|Rainbows End|2007|3.72|7705|2007|
+44037|Vernor Vinge|1944/10/02|167845|The Peace War (Across Realtime, #1)|2003|3.92|3064|2003|
+44037|Vernor Vinge|1944/10/02|167847|Marooned in Realtime (Across Realtime, #2)|2004|4.04|2607|2004|
+44037|Vernor Vinge|1944/10/02|10170545|The Children of the Sky (Zones of Thought, #3)|2011|3.53|2232|2011|
+44037|Vernor Vinge|1944/10/02|167844|Across Realtime|None|4.12|1416|None|
+44037|Vernor Vinge|1944/10/02|20406731|The Skylark of Space|None|3.69|1125|None|
+44037|Vernor Vinge|1944/10/02|167843|The Collected Stories of Vernor Vinge|2002|3.93|541|2002|
+44037|Vernor Vinge|1944/10/02|167846|True Names: and the Opening of the Cyberspace Frontier|2001|4.02|520|2001|
+44037|Vernor Vinge|1944/10/02|167841|The Tatja Grimm's World|2006|3.18|448|2006|
+44037|Vernor Vinge|1944/10/02|321005|True Names... and Other Dangers|1987|4.01|316|1987|
+44037|Vernor Vinge|1944/10/02|167842|The Witling|2006|3.25|322|2006|
+44037|Vernor Vinge|1944/10/02|6656681|Zones of Thought: A Fire Upon the Deep / A Deepness in the Sky (Vernor Vinge Omnibus)|2010|4.43|195|2010|
+44037|Vernor Vinge|1944/10/02|5393037|Fast Times at Fairmont High|None|3.79|155|None|
+44037|Vernor Vinge|1944/10/02|1280983|True Names|1984|3.99|102|1984|
+44037|Vernor Vinge|1944/10/02|8562660|The Coming Technological Singularity: How to Survive in the Post-Human Era|None|4.51|39|None|
+44037|Vernor Vinge|1944/10/02|12592698|After the Battle on Starship Hill: Prologue to The Children of the Sky|2011|3.06|54|2011|
+44037|Vernor Vinge|1944/10/02|1280982|Threats... and Other Promises|1988|3.66|44|1988|
+44037|Vernor Vinge|1944/10/02|10146787|I simulacri|2005|3.38|26|2005|
+44037|Vernor Vinge|1944/10/02|18240113|The Ungoverned|2006|3.58|19|2006|
+44037|Vernor Vinge|1944/10/02|13482175|Technological Singularity|None|3.67|6|None|
+44037|Vernor Vinge|1944/10/02|9698273|Tutti i racconti vol. 1|2006|3.33|6|2006|
+44037|Vernor Vinge|1944/10/02|9770220|I premi Hugo 2002|2003|3.20|5|2003|
+44037|Vernor Vinge|1944/10/02|13374206|Bomb scare|1970|2.50|4|1970|
+44037|Vernor Vinge|1944/10/02|9698274|Tutti i racconti vol. 2|2007|4.50|2|2007|
+44037|Vernor Vinge|1944/10/02|17448800|Singularity|None|3.00|2|None|
+44037|Vernor Vinge|1944/10/02|19376959|Acelerados en el Instituto Fairmont (Ficcionbooks) (Spanish Edition)|None|3.00|1|None|
+44037|Vernor Vinge|1944/10/02|22055731|Un fuego sobre el abismo|None|0.0|0|None|
+44037|Vernor Vinge|1944/10/02|22017980|The Coming Technological Singularity - New Century Edition with DirectLink Technology|None|0.0|0|None|
+1858|Kim Stanley Robinson|1952/03/23|77507|Red Mars (Mars Trilogy, #1)|None|3.80|27423|None|
+1858|Kim Stanley Robinson|1952/03/23|77505|Green Mars (Mars Trilogy, #2)|None|3.88|16362|None|
+1858|Kim Stanley Robinson|1952/03/23|77504|Blue Mars (Mars Trilogy, #3)|None|3.88|12163|None|
+1858|Kim Stanley Robinson|1952/03/23|2723|The Years of Rice and Salt|None|3.69|5034|None|
+1858|Kim Stanley Robinson|1952/03/23|11830394|2312|2012|3.37|5166|2012|
+1858|Kim Stanley Robinson|1952/03/23|41129|Forty Signs of Rain (Science in the Capitol, #1)|None|3.49|1812|None|
+1858|Kim Stanley Robinson|1952/03/23|41126|Antarctica|1999|3.73|1413|1999|
+1858|Kim Stanley Robinson|1952/03/23|41121|Fifty Degrees Below (Science in the Capitol, #2)|None|3.66|1347|None|
+1858|Kim Stanley Robinson|1952/03/23|41128|The Wild Shore (Three Californias Triptych, #1)|1995|3.78|1273|1995|
+1858|Kim Stanley Robinson|1952/03/23|6391377|Galileo's Dream|None|3.46|1263|None|
+1858|Kim Stanley Robinson|1952/03/23|41120|Sixty Days and Counting (Science in the Capitol, #3)|None|3.61|1070|None|
+1858|Kim Stanley Robinson|1952/03/23|40364|The Martians (Mars Trilogy, #3.5)|2000|3.45|949|2000|
+1858|Kim Stanley Robinson|1952/03/23|17669062|Shaman|2013|3.55|800|2013|
+1858|Kim Stanley Robinson|1952/03/23|41125|The Gold Coast (Three Californias Triptych, #2)|1995|3.73|722|1995|
+1858|Kim Stanley Robinson|1952/03/23|41130|Pacific Edge (Three Californias Triptych, #3)|None|3.80|637|None|
+1858|Kim Stanley Robinson|1952/03/23|41127|Icehenge|1998|3.38|652|1998|
+1858|Kim Stanley Robinson|1952/03/23|5222300|Red Mars / Green Mars (Mars Trilogy, #1-2)|None|3.98|352|None|
+1858|Kim Stanley Robinson|1952/03/23|41124|Escape From Kathmandu|2000|3.71|310|2000|
+1858|Kim Stanley Robinson|1952/03/23|41134|The Memory of Whiteness: A Scientific Romance|1996|3.48|314|1996|
+1858|Kim Stanley Robinson|1952/03/23|41122|A Short, Sharp Shock|None|3.34|232|None|
+1858|Kim Stanley Robinson|1952/03/23|6661342|The Lucky Strike|2009|3.89|114|2009|
+1858|Kim Stanley Robinson|1952/03/23|8171810|The Best of Kim Stanley Robinson|2010|3.72|85|2010|
+1858|Kim Stanley Robinson|1952/03/23|1655299|Mars Trilogy 1-3|2007|4.46|68|2007|
+1858|Kim Stanley Robinson|1952/03/23|41123|Remaking History and Other Stories|1994|3.73|56|1994|
+1858|Kim Stanley Robinson|1952/03/23|977474|The Planet On The Table|None|3.40|60|None|
+1858|Kim Stanley Robinson|1952/03/23|41138|Future Primitive: The New Ecotopias|1997|3.51|45|1997|
+1858|Kim Stanley Robinson|1952/03/23|2329900|Vinland the Dream and Other Stories|2002|3.43|30|2002|
+1858|Kim Stanley Robinson|1952/03/23|423232|Nebula Awards Showcase 2002 (Awards Showcase #3)|2002|3.57|28|2002|
+1858|Kim Stanley Robinson|1952/03/23|92621|The Blind Geometer/The New Atlantis|1989|3.34|29|1989|
+1858|Kim Stanley Robinson|1952/03/23|1548441|Down and Out in the Year 2000|1992|3.95|20|1992|
+14032|Connie Willis|1945/12/31|24983|Doomsday Book (Oxford Time Travel, #1)|1992|4.05|20197|1992|
+14032|Connie Willis|1945/12/31|77773|To Say Nothing of the Dog (Oxford Time Travel, #2)|None|4.15|15622|None|
+14032|Connie Willis|1945/12/31|6506307|Blackout|2010|3.81|9894|2010|
+14032|Connie Willis|1945/12/31|7519231|All Clear|2010|4.05|7461|2010|
+14032|Connie Willis|1945/12/31|24985|Bellwether|None|3.93|5280|None|
+14032|Connie Willis|1945/12/31|24984|Passage|2002|3.65|4885|2002|
+14032|Connie Willis|1945/12/31|24986|Fire Watch|1998|3.86|2273|1998|
+14032|Connie Willis|1945/12/31|24980|Lincoln's Dreams|None|3.50|2434|None|
+14032|Connie Willis|1945/12/31|24987|Impossible Things|1994|3.92|1413|1994|
+14032|Connie Willis|1945/12/31|24979|Miracle and Other Christmas Stories|None|3.87|1070|None|
+14032|Connie Willis|1945/12/31|776378|Remake|1996|3.36|1041|1996|
+14032|Connie Willis|1945/12/31|24978|Inside Job|None|3.58|792|None|
+14032|Connie Willis|1945/12/31|24982|Uncharted Territory|None|3.45|798|None|
+14032|Connie Willis|1945/12/31|68010|The Winds of Marble Arch and Other Stories|None|3.94|499|None|
+14032|Connie Willis|1945/12/31|2034628|All Seated on the Ground|None|3.80|452|None|
+14032|Connie Willis|1945/12/31|104363|D.A.|None|3.46|476|None|
+14032|Connie Willis|1945/12/31|209706|Promised Land|1998|3.70|423|1998|
+14032|Connie Willis|1945/12/31|16085458|The Best of Connie Willis: Award-Winning Stories|2013|4.22|315|2013|
+14032|Connie Willis|1945/12/31|12756995|All About Emily|None|3.58|368|None|
+14032|Connie Willis|1945/12/31|209712|Even the Queen: & Other Short Stories|1991|3.90|241|1991|
+14032|Connie Willis|1945/12/31|209708|Light Raid|1990|3.54|226|1990|
+14032|Connie Willis|1945/12/31|387115|Water Witch|1996|3.44|213|1996|
+14032|Connie Willis|1945/12/31|10301442|Fire Watch|None|3.91|159|None|
+14032|Connie Willis|1945/12/31|6535848|The Last of the Winnebagos|2008|3.72|128|2008|
+14032|Connie Willis|1945/12/31|209707|Futures Imperfect (Three Short Novels)|1996|3.82|114|1996|
+14032|Connie Willis|1945/12/31|462255|A Woman's Liberation: A Choice of Futures by and About Women|2001|4.00|87|2001|
+14032|Connie Willis|1945/12/31|411895|Nebula Awards 33: The year's best SF and fantasy chosen by the Science-fiction and Fantasy Writers of America|1999|3.56|45|1999|
+14032|Connie Willis|1945/12/31|209704|Daisy, in the Sun|1991|3.68|34|1991|
+14032|Connie Willis|1945/12/31|209711|The New Hugo Winners, Vol. 3 1989-1991|1994|4.20|20|1994|
+14032|Connie Willis|1945/12/31|6317548|The Winds of Marble Arch|2008|3.92|12|2008|
+8516|Piers Anthony|1934/08/06|76658|On a Pale Horse (Incarnations of Immortality, #1)|1986|4.12|22003|1986|
+8516|Piers Anthony|1934/08/06|76664|A Spell for Chameleon (Xanth, #1)|1977|3.90|21546|1977|
+8516|Piers Anthony|1934/08/06|96977|Castle Roogna (Xanth, #3)|None|3.81|15593|None|
+8516|Piers Anthony|1934/08/06|15447|The Source of Magic (Xanth, #2)|1997|3.82|15290|1997|
+8516|Piers Anthony|1934/08/06|76659|Bearing An Hourglass (Incarnations of Immortality, #2)|1984|3.91|14481|1984|
+8516|Piers Anthony|1934/08/06|76660|With a Tangled Skein (Incarnations of Immortality, #3)|1986|3.95|13432|1986|
+8516|Piers Anthony|1934/08/06|76667|Wielding a Red Sword (Incarnations of Immortality, #4)|1987|3.90|12670|1987|
+8516|Piers Anthony|1934/08/06|76661|Being a Green Mother (Incarnations of Immortality, #5)|1988|3.92|12260|1988|
+8516|Piers Anthony|1934/08/06|96980|Centaur Aisle (Xanth, #4)|1997|3.72|12536|1997|
+8516|Piers Anthony|1934/08/06|15433|Night Mare (Xanth, #6)|1997|3.76|12106|1997|
+8516|Piers Anthony|1934/08/06|99452|Ogre, Ogre (Xanth, #5)|1997|3.68|11274|1997|
+8516|Piers Anthony|1934/08/06|76668|For Love of Evil (Incarnations of Immortality, #6)|1990|4.08|9777|1990|
+8516|Piers Anthony|1934/08/06|99461|Split Infinity  (Apprentice Adept, #1)|1987|3.91|9490|1987|
+8516|Piers Anthony|1934/08/06|15435|Dragon on a Pedestal (Xanth, #7)|1997|3.68|9006|1997|
+8516|Piers Anthony|1934/08/06|15424|And Eternity (Incarnations of Immortality, #7)|1991|3.83|8467|1991|
+8516|Piers Anthony|1934/08/06|817216|Crewel Lye (Xanth, #8)|1987|3.66|8720|1987|
+8516|Piers Anthony|1934/08/06|15450|Golem in the Gears (Xanth, #9)|1997|3.63|8354|1997|
+8516|Piers Anthony|1934/08/06|716329|Blue Adept  (Apprentice Adept, #2)|1987|3.87|7771|1987|
+8516|Piers Anthony|1934/08/06|365522|Juxtaposition (Apprentice Adept, #3)|1987|3.86|7310|1987|
+8516|Piers Anthony|1934/08/06|96979|Man from Mundania (Xanth, #12)|2000|3.66|7003|2000|
+8516|Piers Anthony|1934/08/06|99449|Heaven Cent (Xanth, #11)|None|3.58|6879|None|
+8516|Piers Anthony|1934/08/06|15449|Vale of the Vole (Xanth, #10)|2000|3.55|6829|2000|
+8516|Piers Anthony|1934/08/06|99450|Isle of View (Xanth, #13)|1990|3.62|6505|1990|
+8516|Piers Anthony|1934/08/06|15453|Demons Don't Dream (Xanth, #16)|1994|3.75|5638|1994|
+8516|Piers Anthony|1934/08/06|15460|The Color of Her Panties (Xanth, #15)|1992|3.61|5450|1992|
+8516|Piers Anthony|1934/08/06|96962|Out of Phaze (Apprentice Adept, #4)|1988|3.73|5100|1988|
+8516|Piers Anthony|1934/08/06|15534|Question Quest (Xanth, #14)|1991|3.66|4983|1991|
+8516|Piers Anthony|1934/08/06|15466|Harpy Thyme (Xanth, #17)|None|3.66|4683|None|
+8516|Piers Anthony|1934/08/06|15456|Robot Adept (Apprentice Adept, #5)|1989|3.73|4442|1989|
+8516|Piers Anthony|1934/08/06|15430|Roc and a Hard Place (Xanth, #19)|1996|3.68|4175|1996|

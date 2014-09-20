@@ -1,0 +1,7 @@
+##pull html from wikipedia
+
+##keep names of authors only
+grep "<dd><a href=\"/wiki/" sci_fi_author_list > sci_fi_author_list2.txt
+
+##parse into name and birth year only
+

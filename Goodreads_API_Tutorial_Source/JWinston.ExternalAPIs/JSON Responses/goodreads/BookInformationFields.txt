@@ -1,0 +1,12 @@
+{
+	"Author":  "{{!Author!}}"
+	, "Title":  "{{!Title!}}"
+	, "Description": "{{!Description!}}"
+	, "Average_Rating": "{{!Average_Rating!}} / 5"
+	, "Cover_Image": "{{!Cover_Image!}}"
+	, "Publication_Year": "{{!Publication_Year!}}"
+	, "Publisher": "{{!Publisher!}}"
+	, "ISBN": "{{!ISBN!}}"
+	, "Reviews": "{{!Reviews!}}"
+	, "Status": "{{!Status!}}"
+}

@@ -1,0 +1,6 @@
+#do authors age well
+require 'goodreads'
+	
+client = Goodreads.new(:api_key => 'KEY') # short version
+
+author = client.author_by_name('Orson Scott Card')
